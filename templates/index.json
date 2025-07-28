@@ -181,72 +181,6 @@
         "reset_spacing": false
       }
     },
-    "collection_tab_Ccmbi4": {
-      "type": "collection-tab",
-      "blocks": {
-        "collection_qJxFmH": {
-          "type": "collection",
-          "settings": {
-            "title": "",
-            "collection": ""
-          }
-        },
-        "collection_xqRENz": {
-          "type": "collection",
-          "settings": {
-            "title": "",
-            "collection": ""
-          }
-        },
-        "collection_9zXxGk": {
-          "type": "collection",
-          "settings": {
-            "title": "",
-            "collection": ""
-          }
-        },
-        "collection_Qh3G3H": {
-          "type": "collection",
-          "settings": {
-            "title": "",
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection_qJxFmH",
-        "collection_xqRENz",
-        "collection_9zXxGk",
-        "collection_Qh3G3H"
-      ],
-      "name": "t:sections.collection-tab.name",
-      "settings": {
-        "heading": "",
-        "heading_border": false,
-        "description": "",
-        "text_alignment": "text-center",
-        "container": "container",
-        "color_scheme": "",
-        "tab_design": "horizontal",
-        "tab_style": "tab_desgin_2",
-        "tab_type": "grid",
-        "limit_products": 8,
-        "item_desktop": 4,
-        "column_gap": 30,
-        "carousel_autoplay": false,
-        "carousel_loop": false,
-        "carousel_arrows": false,
-        "carousel_pagination": "carousel_none",
-        "number_of_rows": 1,
-        "load_more_button_enable": false,
-        "button_action": "load",
-        "button_label": "Load more",
-        "button_type": "primary",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
-    },
     "collection_list_qFFGcm": {
       "type": "collection-list",
       "blocks": {
@@ -314,6 +248,146 @@
         "autoplay": false,
         "loop": false,
         "show_arrow": false,
+        "carousel_pagination": "carousel_none",
+        "reveal_on_scroll": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "collection_tab_Ccmbi4": {
+      "type": "collection-tab",
+      "blocks": {
+        "collection_qJxFmH": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        },
+        "collection_xqRENz": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        },
+        "collection_9zXxGk": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        },
+        "collection_Qh3G3H": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_qJxFmH",
+        "collection_xqRENz",
+        "collection_9zXxGk",
+        "collection_Qh3G3H"
+      ],
+      "name": "t:sections.collection-tab.name",
+      "settings": {
+        "heading": "",
+        "heading_border": false,
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container",
+        "color_scheme": "",
+        "tab_design": "horizontal",
+        "tab_style": "tab_desgin_2",
+        "tab_type": "grid",
+        "limit_products": 8,
+        "item_desktop": 4,
+        "column_gap": 30,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": false,
+        "carousel_pagination": "carousel_none",
+        "number_of_rows": 1,
+        "load_more_button_enable": false,
+        "button_action": "load",
+        "button_label": "Load more",
+        "button_type": "primary",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "collection_list_3WBmTC": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_item_D7j6Wq": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": ""
+          }
+        },
+        "collection_item_r8hLwB": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": ""
+          }
+        },
+        "collection_item_BRqrMQ": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": ""
+          }
+        },
+        "collection_item_waXXWy": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_D7j6Wq",
+        "collection_item_r8hLwB",
+        "collection_item_BRqrMQ",
+        "collection_item_waXXWy"
+      ],
+      "name": "t:sections.collection-list.name",
+      "settings": {
+        "heading": "",
+        "heading_border": false,
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "strecth-width",
+        "color_scheme": "",
+        "design_layout": "carousel",
+        "design_collection": "design-2",
+        "hover_effect": "zoom",
+        "show_count_product": false,
+        "custom_width_images": false,
+        "width_image": 200,
+        "images_style": false,
+        "image_ratio": "3/4",
+        "custom_ratio": "21:9",
+        "custom_column": 3,
+        "custom_column_mobile": 2,
+        "custom_column_small_mobile": 2,
+        "column_gap": 30,
+        "collection_font_size": 16,
+        "collection_font_weight": 500,
+        "collection_spacing": 0,
+        "count_font_size": 14,
+        "count_font_weight": 400,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
         "carousel_pagination": "carousel_none",
         "reveal_on_scroll": false,
         "padding_top": 0,
@@ -753,9 +827,10 @@
   },
   "order": [
     "0c521c75-5d82-4dd6-aecc-f519d8907411",
-    "collection_list_qFFGcm",
     "collection_list_abd4bJ",
+    "collection_list_qFFGcm",
     "collection_tab_Ccmbi4",
+    "collection_list_3WBmTC",
     "products_carousel_cNaKhf",
     "banner_with_text_MFqmbz",
     "scrolling_text_ippXrq",

@@ -781,16 +781,37 @@
           "settings": {
             "product_item": ""
           }
+        },
+        "video_8gVU4k": {
+          "type": "video",
+          "settings": {
+            "product_item": ""
+          }
+        },
+        "video_A7TNaX": {
+          "type": "video",
+          "settings": {
+            "product_item": ""
+          }
+        },
+        "video_6gxm4M": {
+          "type": "video",
+          "settings": {
+            "product_item": ""
+          }
         }
       },
       "block_order": [
         "video_UKnpiM",
         "video_qT6wXh",
-        "video_cdT6DW"
+        "video_cdT6DW",
+        "video_8gVU4k",
+        "video_A7TNaX",
+        "video_6gxm4M"
       ],
       "name": "t:sections.shopable-video.name",
       "settings": {
-        "heading": "",
+        "heading": "Shop the Look!",
         "heading_border": false,
         "description": "",
         "text_alignment": "text-center",

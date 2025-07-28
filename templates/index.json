@@ -657,6 +657,109 @@
         "padding_bottom": 0,
         "reset_spacing": false
       }
+    },
+    "banner_with_text_ygcgwP": {
+      "type": "banner-with-text",
+      "blocks": {
+        "subheading_bFEmcb": {
+          "type": "subheading",
+          "settings": {
+            "sub_title": "Subheading",
+            "subheading_fs": 14,
+            "subheading_fw": "default",
+            "subheading_tf": "unset",
+            "subheading_mt": 0,
+            "subheading_mb": 10
+          }
+        },
+        "heading_dHtyTF": {
+          "type": "heading",
+          "settings": {
+            "title": "Heading",
+            "heading_fs": 40,
+            "heading_fw": "default",
+            "heading_tf": "unset",
+            "heading_mt": 0,
+            "heading_mb": 10
+          }
+        },
+        "text_QqWiQ6": {
+          "type": "text",
+          "settings": {
+            "txt_content": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review</p>",
+            "txt_fs": 16,
+            "txt_fw": "default",
+            "txt_tf": "unset",
+            "txt_mt": 0,
+            "txt_mb": 25
+          }
+        },
+        "countdown_bn_BJxmHk": {
+          "type": "countdown_bn",
+          "settings": {
+            "countdown_design": "countdown_design_1",
+            "bn_end_time": "12-24-2025",
+            "bn_txt_fs": 18,
+            "number_txt_fs": 36,
+            "bn_txt_fw": 400,
+            "bn_txt_tf": "unset",
+            "bn_txt_mt": 0,
+            "bn_txt_mb": 25
+          }
+        },
+        "buttons_E3fAqi": {
+          "type": "buttons",
+          "settings": {
+            "btn_content": "Button",
+            "button_type": "primary",
+            "button_link": "",
+            "button_target": false,
+            "b_mt": 0,
+            "b_mb": 15
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bFEmcb",
+        "heading_dHtyTF",
+        "text_QqWiQ6",
+        "countdown_bn_BJxmHk",
+        "buttons_E3fAqi"
+      ],
+      "name": "t:sections.banner-with-text.name",
+      "settings": {
+        "container": "strecth-width",
+        "color_scheme": "scheme-39dc080d-ae96-4cdd-8f57-b11d5217e9de",
+        "image_behavior": "none",
+        "banner_type": "image",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "link": "",
+        "open_link": "_blank",
+        "image_position": "left",
+        "bn_design": "text_overlay",
+        "text_align": "text-center",
+        "text_horizontal_position": "left",
+        "text_position": "center",
+        "content_bg_color": "",
+        "background_gradient": "",
+        "content_width": 100,
+        "banner_height": "depend-image",
+        "height_dk": 800,
+        "height_tb": 600,
+        "height_mb": 360,
+        "height_full": false,
+        "content_box": "content_in_container",
+        "bg_opacity": 100,
+        "full_box": false,
+        "text_bellow_mobile": false,
+        "img_position": "left",
+        "banner_width": "col-md-6",
+        "column_gap": 30,
+        "hover_effect": "zoom",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
     }
   },
   "order": [
@@ -668,6 +771,7 @@
     "custom_text_ADmdGP",
     "icon_box_hUjRLr",
     "banner_image_FrjCUU",
-    "icon_box_wyVBRj"
+    "icon_box_wyVBRj",
+    "banner_with_text_ygcgwP"
   ]
 }

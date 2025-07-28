@@ -181,124 +181,6 @@
         "reset_spacing": false
       }
     },
-    "custom_text_pg9V8t": {
-      "type": "custom-text",
-      "blocks": {
-        "heading_YTE7Pg": {
-          "type": "heading",
-          "settings": {
-            "heading": "We're on a mission to show the world that modern fashion can be both stylish and sustainable. Looking good doesn't have to cost the earth.",
-            "heading_fs": 28,
-            "heading_fw": "default",
-            "heading_tf": "unset",
-            "heading_mt": 0,
-            "heading_mb": 40
-          }
-        },
-        "buttons_KeCFKf": {
-          "type": "buttons",
-          "settings": {
-            "btn_content": "OUR PHILOSOPHY",
-            "button_type": "link",
-            "button_link": "shopify://pages/about-us",
-            "button_target": false,
-            "b_mt": 0,
-            "b_mb": 0
-          }
-        }
-      },
-      "block_order": [
-        "heading_YTE7Pg",
-        "buttons_KeCFKf"
-      ],
-      "settings": {
-        "container": "container",
-        "text_align": "text-center",
-        "color_scheme": "scheme-39dc080d-ae96-4cdd-8f57-b11d5217e9de",
-        "custom_class": "",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
-    },
-    "banner_image_PerQVY": {
-      "type": "banner-image",
-      "blocks": {
-        "image_banner_E8qUwR": {
-          "type": "image_banner",
-          "settings": {
-            "banner_width": "8",
-            "banner_type": "image",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "image_opacity": 30,
-            "link": "shopify://collections/sweaters",
-            "open_link": "_blank",
-            "content_banner_horizontal": "Bottom",
-            "subtext": "SAVE 30%—50% CLOTHING",
-            "title": "High—Top Design",
-            "content": "<p>In-store! Limited time offer.</p>",
-            "btn_content": "",
-            "button_type": "primary"
-          }
-        },
-        "image_banner_F64Nbj": {
-          "type": "image_banner",
-          "settings": {
-            "banner_width": "4",
-            "banner_type": "image",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "image_opacity": 30,
-            "link": "shopify://collections/blazers",
-            "open_link": "_blank",
-            "content_banner_horizontal": "Bottom",
-            "subtext": "SAVE 30—50% BLAZES",
-            "title": "Colour Spotlight",
-            "content": "<p>In-store! Limited time offer.</p>",
-            "btn_content": "",
-            "button_type": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "image_banner_E8qUwR",
-        "image_banner_F64Nbj"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_border": false,
-        "description": "",
-        "text_alignment": "text-center",
-        "container": "container-fluid",
-        "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
-        "show_box_background": false,
-        "color_background": "",
-        "bg_overlay": 100,
-        "column_gap": 30,
-        "layout_on_mobile": false,
-        "design_banner": "text-overlay-image",
-        "text_align": "text-center",
-        "hover_effect": "zoom",
-        "h_font_size": 36,
-        "h_font_weight": "default",
-        "h_spacing": 20,
-        "sub_font_size": 16,
-        "sub_font_weight": "400",
-        "sub_spacing": 5,
-        "des_font_size": 15,
-        "des_font_weight": "default",
-        "des_spacing": 0,
-        "button_font_size": 16,
-        "button_font_weight": "default",
-        "button_spacing": 0,
-        "image_behavior": "none",
-        "text_position": "center",
-        "content_on_mobile": false,
-        "reset_color_mb": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "reset_spacing": false
-      }
-    },
     "products_carousel_NyQg33": {
       "type": "products-carousel",
       "settings": {
@@ -841,8 +723,6 @@
   "order": [
     "0c521c75-5d82-4dd6-aecc-f519d8907411",
     "collection_list_abd4bJ",
-    "custom_text_pg9V8t",
-    "banner_image_PerQVY",
     "products_carousel_NyQg33",
     "banner_image_fAp8ab",
     "products_carousel_cNaKhf",

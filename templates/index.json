@@ -578,6 +578,85 @@
         "padding_bottom": 0,
         "reset_spacing": false
       }
+    },
+    "icon_box_wyVBRj": {
+      "type": "icon-box",
+      "blocks": {
+        "iconbox_L6XAFh": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "",
+            "description": ""
+          }
+        },
+        "iconbox_f8A6tK": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "",
+            "description": ""
+          }
+        },
+        "iconbox_R6TLCM": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "",
+            "description": ""
+          }
+        },
+        "iconbox_EtPJ8H": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "",
+            "description": ""
+          }
+        },
+        "iconbox_kJJkri": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "",
+            "description": ""
+          }
+        },
+        "iconbox_NWCLgx": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "iconbox_L6XAFh",
+        "iconbox_f8A6tK",
+        "iconbox_R6TLCM",
+        "iconbox_EtPJ8H",
+        "iconbox_kJJkri",
+        "iconbox_NWCLgx"
+      ],
+      "name": "t:sections.image-box.name",
+      "settings": {
+        "heading": "",
+        "heading_border": false,
+        "description": "",
+        "text_alignment": "text-right",
+        "container": "strecth-width",
+        "color_scheme": "",
+        "custom_column": 4,
+        "column_gap": 0,
+        "icon_width": 120,
+        "icon_spacing": 0,
+        "carousel_mobile": true,
+        "ib_h_font_size": 20,
+        "ib_h_font_weight": "default",
+        "ib_spacing": 20,
+        "ib_desc_font_size": 16,
+        "ib_img_view": "default",
+        "img_position": "position-top",
+        "content_text_alignment": "text-center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
     }
   },
   "order": [
@@ -588,6 +667,7 @@
     "collection_list_3WBmTC",
     "custom_text_ADmdGP",
     "icon_box_hUjRLr",
-    "banner_image_FrjCUU"
+    "banner_image_FrjCUU",
+    "icon_box_wyVBRj"
   ]
 }

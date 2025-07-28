@@ -15,8 +15,6 @@
         "template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-0": {
           "type": "slider_item",
           "settings": {
-            "image": "shopify://shop_images/rk_s1.webp",
-            "image_mobile": "shopify://shop_images/fsr_ms1.jpg",
             "image_opacity": 10,
             "content_box": "content_in_container_fullwidth",
             "content_custom_width": true,
@@ -39,8 +37,6 @@
         "4d89f9ff-8153-4b4a-a089-ccb19f702450": {
           "type": "slider_item",
           "settings": {
-            "image": "shopify://shop_images/rk_s2.webp",
-            "image_mobile": "shopify://shop_images/fsr_ms2.jpg",
             "image_opacity": 10,
             "content_box": "content_in_container_fullwidth",
             "content_custom_width": true,
@@ -103,45 +99,48 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "",
-            "collection": "top-t-shirt",
-            "image": "shopify://shop_images/rk_clt4.webp"
+            "collection": "top-t-shirt"
+          }
+        },
+        "collection_item_zq7pzM": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": ""
           }
         },
         "collection_item_G4Phwp": {
           "type": "collection_item",
           "settings": {
             "title_collection": "",
-            "collection": "sweaters",
-            "image": "shopify://shop_images/rk_clt5.webp"
+            "collection": "sweaters"
           }
         },
         "collection_item_FMPdcf": {
           "type": "collection_item",
           "settings": {
             "title_collection": "",
-            "collection": "dresses",
-            "image": "shopify://shop_images/rk_clt2.webp"
+            "collection": "dresses"
           }
         },
         "collection_item_EkqzB6": {
           "type": "collection_item",
           "settings": {
             "title_collection": "",
-            "collection": "shirts",
-            "image": "shopify://shop_images/rk_clt3.webp"
+            "collection": "shirts"
           }
         },
         "collection_item_miHrKx": {
           "type": "collection_item",
           "settings": {
             "title_collection": "",
-            "collection": "blazers",
-            "image": "shopify://shop_images/rk_clt1.webp"
+            "collection": "blazers"
           }
         }
       },
       "block_order": [
         "collection_item_KK3qXW",
+        "collection_item_zq7pzM",
         "collection_item_G4Phwp",
         "collection_item_FMPdcf",
         "collection_item_EkqzB6",
@@ -155,7 +154,7 @@
         "container": "container-fluid",
         "color_scheme": "",
         "design_layout": "carousel",
-        "design_collection": "design-4",
+        "design_collection": "design-6",
         "hover_effect": "zoom",
         "show_count_product": false,
         "custom_width_images": false,
@@ -230,7 +229,6 @@
           "settings": {
             "banner_width": "8",
             "banner_type": "image",
-            "image": "shopify://shop_images/fsr_1.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "image_opacity": 30,
             "link": "shopify://collections/sweaters",
@@ -248,7 +246,6 @@
           "settings": {
             "banner_width": "4",
             "banner_type": "image",
-            "image": "shopify://shop_images/fsr_2.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "image_opacity": 30,
             "link": "shopify://collections/blazers",
@@ -341,7 +338,6 @@
           "settings": {
             "banner_width": "6",
             "banner_type": "image",
-            "image": "shopify://shop_images/rkn_2.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "image_opacity": 0,
             "link": "shopify://collections/charms-dangles",
@@ -359,7 +355,6 @@
           "settings": {
             "banner_width": "6",
             "banner_type": "image",
-            "image": "shopify://shop_images/rkn_1.jpg",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "image_opacity": 0,
             "link": "shopify://collections/dresses",
@@ -505,7 +500,6 @@
         "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
         "image_behavior": "fixed",
         "banner_type": "image",
-        "image": "shopify://shop_images/fsr_5.jpg",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "link": "",
         "open_link": "_blank",
@@ -605,7 +599,6 @@
         "testimonials_btrhL3": {
           "type": "testimonials",
           "settings": {
-            "image": "shopify://shop_images/rk_t1.webp",
             "description": "<p>I just have to say, I am absolutely amazed by the quality of the suit I received! I’m seriously so impressed, and the price is unbeatable! I was a bit worried at first, but everything about it turned out perfect. Thank you so much!</p>",
             "text_name": "Algistino Lionel.",
             "product_item": "balloon-sleeved-dress"
@@ -614,7 +607,6 @@
         "testimonials_Ve4JeD": {
           "type": "testimonials",
           "settings": {
-            "video_local": "",
             "description": "<p>Beautiful pieces at affordable prices!!! You can never go wrong with that. Shipping is fast and and amazing customer service. Unique for wedding wear but still gorgeous and traditional!</p>",
             "text_name": "Siarhei Dzenisenka",
             "product_item": "gathered-sleeve-blazer"
@@ -623,7 +615,6 @@
         "testimonials_WfnCt6": {
           "type": "testimonials",
           "settings": {
-            "image": "shopify://shop_images/rk_t2.webp",
             "description": "<p>My experience with Rokan has been absolutely amazing!!! I love love love their service so much!!  I have ordered twice from their website already and they haven’t let me down!!!</p>",
             "text_name": "Carie-Gosée H.",
             "product_item": "teddy-bear-coats-copy"
@@ -668,7 +659,6 @@
         "lookbook_XiTxyY": {
           "type": "lookbook",
           "settings": {
-            "image": "shopify://shop_images/rk_i1.webp",
             "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
             "photographer": "",
             "ig_text": "Follow Us  @Rokan",
@@ -693,7 +683,6 @@
         "lookbook_LfpHNq": {
           "type": "lookbook",
           "settings": {
-            "image": "shopify://shop_images/jk_i6.webp",
             "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
             "photographer": "",
             "ig_text": "Follow Us  @Rokan",
@@ -718,7 +707,6 @@
         "lookbook_3DkmUp": {
           "type": "lookbook",
           "settings": {
-            "image": "shopify://shop_images/rk_i3.webp",
             "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
             "photographer": "",
             "ig_text": "Follow Us  @Rokan",
@@ -743,7 +731,6 @@
         "lookbook_KGFTkD": {
           "type": "lookbook",
           "settings": {
-            "image": "shopify://shop_images/rk_i4.webp",
             "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
             "photographer": "",
             "ig_text": "Follow Us  @Rokan",
@@ -768,7 +755,6 @@
         "lookbook_t3q4jB": {
           "type": "lookbook",
           "settings": {
-            "image": "shopify://shop_images/rk_i5.webp",
             "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
             "photographer": "",
             "ig_text": "Follow Us  @Rokan",
@@ -793,7 +779,6 @@
         "lookbook_VJBXfb": {
           "type": "lookbook",
           "settings": {
-            "image": "shopify://shop_images/rk_i2.webp",
             "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
             "photographer": "",
             "ig_text": "Follow Us  @Rokan",

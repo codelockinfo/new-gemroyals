@@ -444,6 +444,61 @@
         "padding_bottom": 0,
         "reset_spacing": true
       }
+    },
+    "icon_box_hUjRLr": {
+      "type": "icon-box",
+      "blocks": {
+        "iconbox_ApUgG8": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "ATELIER-GRADE MATERIALS",
+            "description": ""
+          }
+        },
+        "iconbox_xHzfmT": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "Free Returns",
+            "description": ""
+          }
+        },
+        "iconbox_nbQFgf": {
+          "type": "iconbox",
+          "settings": {
+            "heading": "Support Online",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "iconbox_ApUgG8",
+        "iconbox_xHzfmT",
+        "iconbox_nbQFgf"
+      ],
+      "name": "t:sections.image-box.name",
+      "settings": {
+        "heading": "",
+        "heading_border": false,
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container",
+        "color_scheme": "",
+        "custom_column": 3,
+        "column_gap": 30,
+        "icon_width": 30,
+        "icon_spacing": 20,
+        "carousel_mobile": false,
+        "ib_h_font_size": 18,
+        "ib_h_font_weight": "default",
+        "ib_spacing": 20,
+        "ib_desc_font_size": 16,
+        "ib_img_view": "default",
+        "img_position": "position-left",
+        "content_text_alignment": "text-center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
     }
   },
   "order": [
@@ -452,6 +507,7 @@
     "collection_list_qFFGcm",
     "collection_tab_Ccmbi4",
     "collection_list_3WBmTC",
-    "custom_text_ADmdGP"
+    "custom_text_ADmdGP",
+    "icon_box_hUjRLr"
   ]
 }

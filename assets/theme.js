@@ -3086,7 +3086,7 @@ var BlsRokanAdminLi = (function () {
             text = "Purchase Code deleted successfully!";
             break;
           default:
-            text = "Welcome to Rokan - Shopify Themes OS 2.0 🎉 ";
+            text = "Welcome to Rokan -  Themes OS 2.0 🎉 ";
             break;
         }
         const t = document.createTextNode(text);

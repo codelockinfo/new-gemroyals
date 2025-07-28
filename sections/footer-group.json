@@ -14,38 +14,6 @@
     "footer_1_Q6KFEM": {
       "type": "footer-1",
       "blocks": {
-        "about_us_JBrPBr": {
-          "type": "about_us",
-          "settings": {
-            "title": "",
-            "description": "",
-            "logo_about_us": "shopify://shop_images/logo_white.png",
-            "logo_width": 120,
-            "about_description": "Experience the Perfect Fusion of Style and Luxury, Where Elegance Meets Sophistication in Every Detail.",
-            "show_address": true,
-            "show_phone": true,
-            "show_email": true,
-            "show_socials_link": true,
-            "enable_follow_on_shop": true,
-            "width": "33%"
-          }
-        },
-        "menu_3X6WPa": {
-          "type": "menu",
-          "settings": {
-            "menu": "company",
-            "title": "Our Company",
-            "width": "16%"
-          }
-        },
-        "menu_Awdkhn": {
-          "type": "menu",
-          "settings": {
-            "menu": "customer-service",
-            "title": "Customer Service",
-            "width": "16%"
-          }
-        },
         "newsletter_xiCRRn": {
           "type": "newsletter",
           "settings": {
@@ -60,13 +28,44 @@
             "style_light": true,
             "width": "33%"
           }
+        },
+        "menu_3X6WPa": {
+          "type": "menu",
+          "settings": {
+            "menu": "",
+            "title": "Our Company",
+            "width": "16%"
+          }
+        },
+        "menu_Awdkhn": {
+          "type": "menu",
+          "settings": {
+            "menu": "",
+            "title": "Customer Service",
+            "width": "16%"
+          }
+        },
+        "about_us_JBrPBr": {
+          "type": "about_us",
+          "settings": {
+            "title": "",
+            "description": "",
+            "logo_width": 120,
+            "about_description": "Experience the Perfect Fusion of Style and Luxury, Where Elegance Meets Sophistication in Every Detail.",
+            "show_address": true,
+            "show_phone": true,
+            "show_email": true,
+            "show_socials_link": true,
+            "enable_follow_on_shop": true,
+            "width": "33%"
+          }
         }
       },
       "block_order": [
-        "about_us_JBrPBr",
+        "newsletter_xiCRRn",
         "menu_3X6WPa",
         "menu_Awdkhn",
-        "newsletter_xiCRRn"
+        "about_us_JBrPBr"
       ],
       "settings": {
         "container": "container-fluid",
@@ -80,7 +79,6 @@
         "remove_on_inner_page": false,
         "copyright": "<p>© 2024 Rokan store. All rights reserved.</p>",
         "menu": "",
-        "image_payment": "shopify://shop_images/payment.png",
         "payment_icons_width": 313,
         "show_social_links": false,
         "footer-heading-size": 18,

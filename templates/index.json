@@ -686,7 +686,7 @@
         "text_QqWiQ6": {
           "type": "text",
           "settings": {
-            "txt_content": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review</p>",
+            "txt_content": "<p>Explore our latest considered collection for the new season.</p>",
             "txt_fs": 16,
             "txt_fw": "default",
             "txt_tf": "unset",
@@ -740,7 +740,7 @@
         "text_align": "text-center",
         "text_horizontal_position": "left",
         "text_position": "center",
-        "content_bg_color": "",
+        "content_bg_color": "#ffffff",
         "background_gradient": "",
         "content_width": 100,
         "banner_height": "depend-image",

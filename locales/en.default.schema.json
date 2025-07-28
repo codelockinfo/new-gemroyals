@@ -12,7 +12,28 @@
     "Overlay_group": {
       "name": "Overlay group"
     },
-    
+    "purchase-code": {
+      "name": "Purchase code",
+      "settings": {
+        "header": {
+          "content": "Do not forget to click to \"Save\" button!"
+        },
+        "purchase_code": {
+          "label": "Purchase code"
+        },
+        "paragraph__1": {
+          "content": "[Where is my purchase code?](https:\/\/help.market.envato.com\/hc\/en-us\/articles\/202822600-Where-Is-My-Purchase-Code-)"
+        },
+        "paragraph__2": {
+          "content": "[Get Rokan license!](#)"
+        },
+        "purchase_code_action": {
+          "label": "Purchase action",
+          "active": "Activate purchase code",
+          "remove": "Remove purchase code"
+        }
+      }
+    },
     "logo-favicon": {
       "name": "Logo and Favicon",
       "settings": {

@@ -1,0 +1,94 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Footer",
+  "type": "footer",
+  "sections": {
+    "footer_1_Q6KFEM": {
+      "type": "footer-1",
+      "blocks": {
+        "about_us_JBrPBr": {
+          "type": "about_us",
+          "settings": {
+            "title": "",
+            "description": "",
+            "logo_about_us": "shopify://shop_images/logo_white.png",
+            "logo_width": 120,
+            "about_description": "Experience the Perfect Fusion of Style and Luxury, Where Elegance Meets Sophistication in Every Detail.",
+            "show_address": true,
+            "show_phone": true,
+            "show_email": true,
+            "show_socials_link": true,
+            "enable_follow_on_shop": true,
+            "width": "33%"
+          }
+        },
+        "menu_3X6WPa": {
+          "type": "menu",
+          "settings": {
+            "menu": "company",
+            "title": "Our Company",
+            "width": "16%"
+          }
+        },
+        "menu_Awdkhn": {
+          "type": "menu",
+          "settings": {
+            "menu": "customer-service",
+            "title": "Customer Service",
+            "width": "16%"
+          }
+        },
+        "newsletter_xiCRRn": {
+          "type": "newsletter",
+          "settings": {
+            "sub_title": "",
+            "title": "Sign Up To Newsletter",
+            "description": "Sign up for exclusive updates, new arrivals & insider only discounts",
+            "email_placeholder": "Enter your email...",
+            "email_btn_label": "Subscribe",
+            "note": "***By entering the e-mail you accept the <a href=\"/pages/term-condition\" title=\"Term & Condition\"><strong>terms and conditions</strong></a> and the <a href=\"/pages/privacy-policy\" title=\"Privacy Policy\"><strong>privacy policy.</strong></a>",
+            "design_newletter": "default",
+            "show_social": false,
+            "style_light": true,
+            "width": "33%"
+          }
+        }
+      },
+      "block_order": [
+        "about_us_JBrPBr",
+        "menu_3X6WPa",
+        "menu_Awdkhn",
+        "newsletter_xiCRRn"
+      ],
+      "settings": {
+        "container": "container-fluid",
+        "text_alignment": "text-left",
+        "footer_open_collapsing": false,
+        "back_to_top": true,
+        "show_border_top": false,
+        "show_border_top_inner": true,
+        "has_bg": true,
+        "remove_on_homepage": true,
+        "remove_on_inner_page": false,
+        "copyright": "<p>© 2024 Rokan store. All rights reserved.</p>",
+        "menu": "",
+        "image_payment": "shopify://shop_images/payment.png",
+        "payment_icons_width": 313,
+        "show_social_links": false,
+        "footer-heading-size": 18,
+        "color_scheme": "scheme-6616aa44-7b5e-4f3f-9afe-860805c889bb"
+      }
+    }
+  },
+  "order": [
+    "footer_1_Q6KFEM"
+  ]
+}

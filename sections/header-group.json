@@ -1,0 +1,120 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Header",
+  "type": "header",
+  "sections": {
+    "top_bar_dpKTwb": {
+      "type": "top-bar",
+      "settings": {
+        "container": "strecth-width",
+        "color_scheme": "scheme-a7934d7b-8af4-45c2-aba0-0f889cae386b",
+        "show_mobile": false,
+        "show_border": false,
+        "top_bar_font_size": 13,
+        "top_bar_font_weight": 400,
+        "top_bar_uppercase": false,
+        "show_phone_number": true,
+        "show_email": false,
+        "show_social": true,
+        "show_country": true,
+        "show_language": true,
+        "show_store_page": false,
+        "show_message": true,
+        "message": "<p>Summer Sale 15% off! <a href=\"/collections/dresses\" title=\"Dresses\"><span style=\"text-decoration:underline\">Shop Now!</span></a></p>",
+        "menu": "top-menu",
+        "padding_top": 5,
+        "padding_bottom": 5
+      }
+    },
+    "header_KHzHmf": {
+      "type": "header",
+      "blocks": {
+        "menu_collection_TXbppN": {
+          "type": "menu_collection",
+          "settings": {
+            "text": "Shop",
+            "open-link-newtab": true,
+            "item_label": "unset",
+            "collection_menu_column": 2,
+            "mega_custom_width": 1030,
+            "full_width": false,
+            "collection_width": 50,
+            "collection_1": "dresses",
+            "collection_2": "shirts",
+            "collection_3": ""
+          }
+        },
+        "menu_promotion_DximVU": {
+          "type": "menu_promotion",
+          "settings": {
+            "text": "Product",
+            "open-link-newtab": true,
+            "item_label": "unset",
+            "promotion_menu_column": 6,
+            "mega_custom_width": 1030,
+            "full_width": true,
+            "promotion_position": "right",
+            "promotion_image_style": "modern",
+            "promotion_image_width": 22,
+            "promotion_image_1": "shopify://shop_images/bn_menu.jpg",
+            "promotion_link_1": "shopify://collections",
+            "promotion_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "menu_collection_TXbppN",
+        "menu_promotion_DximVU"
+      ],
+      "settings": {
+        "section_width": "full-width",
+        "color_scheme": "default-color-scheme",
+        "logo_position": "left",
+        "logo_position_option": 2,
+        "submenu_center": true,
+        "sticky_header": true,
+        "sticky_header_mobile": true,
+        "transparent_header": true,
+        "transparent_mobile": false,
+        "transparent_text_icon_color": "#ffffff",
+        "transparent_bg_color": "#555555",
+        "mega_menu": "main-menu",
+        "dropdowns_animation": "up_to_down",
+        "hot": "Hot",
+        "label_color_hot": "#ffffff",
+        "label_background_hot": "#d0473e",
+        "new": "New",
+        "label_color_new": "#ffffff",
+        "label_background_new": "#516cf4",
+        "sale": "Sale",
+        "label_color_sale": "#ffffff",
+        "label_background_sale": "#d73f0f",
+        "menu_mb_action": false,
+        "menu_mb_category": false,
+        "collection_list_all": true,
+        "collection_list_custom": [],
+        "menu_mobile_background": "#d0473e",
+        "menu_mobile_color": "#ffffff",
+        "show_search": true,
+        "show_account_icon": true,
+        "show_wishlist_icon": true,
+        "show_shopping_cart": true,
+        "show_currency": true,
+        "show_language": true,
+        "show_text_account": false
+      }
+    }
+  },
+  "order": [
+    "top_bar_dpKTwb",
+    "header_KHzHmf"
+  ]
+}

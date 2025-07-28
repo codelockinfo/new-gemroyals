@@ -1,0 +1,871 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "0c521c75-5d82-4dd6-aecc-f519d8907411": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-0": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify://shop_images/rk_s1.webp",
+            "image_mobile": "shopify://shop_images/fsr_ms1.jpg",
+            "image_opacity": 10,
+            "content_box": "content_in_container_fullwidth",
+            "content_custom_width": true,
+            "content_width": 30,
+            "content_background_color": "",
+            "content_opacity": 100,
+            "horizontal_position": "left_position",
+            "vertical_position": "bottom_position",
+            "slider_effect": "effect_fadeinright",
+            "text_alignment": "left",
+            "text_alignment_on_mobile": "center",
+            "subheading": "",
+            "title": "Lifestyle Inspiration",
+            "description": "<p>Inspire your customers by illustrating a sophisticated lifestyle made possible through their purchases on your website.</p>",
+            "image_link": "shopify://collections/top-t-shirt",
+            "button_text": "Discover Collection",
+            "button_type": "secondary"
+          }
+        },
+        "4d89f9ff-8153-4b4a-a089-ccb19f702450": {
+          "type": "slider_item",
+          "settings": {
+            "image": "shopify://shop_images/rk_s2.webp",
+            "image_mobile": "shopify://shop_images/fsr_ms2.jpg",
+            "image_opacity": 10,
+            "content_box": "content_in_container_fullwidth",
+            "content_custom_width": true,
+            "content_width": 30,
+            "content_background_color": "",
+            "content_opacity": 100,
+            "horizontal_position": "left_position",
+            "vertical_position": "bottom_position",
+            "slider_effect": "effect_fadeinup",
+            "text_alignment": "left",
+            "text_alignment_on_mobile": "center",
+            "subheading": "",
+            "title": "Timeless Essence",
+            "description": "<p>Explore classic pieces with modern touches, designed for a sophisticated wardrobe that never goes out of style.</p>",
+            "image_link": "shopify://collections/dresses",
+            "button_text": "Discover Collection",
+            "button_type": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--16567751082231__0c521c75-5d82-4dd6-aecc-f519d8907411-1666406556d8612fa9-0",
+        "4d89f9ff-8153-4b4a-a089-ccb19f702450"
+      ],
+      "settings": {
+        "container": "full-width",
+        "slide_height": "full_screen",
+        "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
+        "image_effect": "parallax_image",
+        "image_behavior": "none",
+        "height_dk": 630,
+        "height_tb": 500,
+        "height_mb": 500,
+        "heading_font_size": 40,
+        "heading_font_weight": "600",
+        "heading_spacing": 10,
+        "subheading_font_size": 16,
+        "subheading_font_weight": "500",
+        "subheading_spacing": 5,
+        "description_font_size": 15,
+        "description_font_weight": "default",
+        "description_spacing": 30,
+        "design": "s-text-overlay-image",
+        "reset_color_mb": false,
+        "show_arrow_desktop": true,
+        "show_arrow_mobile": false,
+        "show_bullet_desktop": false,
+        "show_bullet_mobile": true,
+        "autoplay": false,
+        "autorotate_speed": 5,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "collection_list_abd4bJ": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_item_KK3qXW": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "top-t-shirt",
+            "image": "shopify://shop_images/rk_clt4.webp"
+          }
+        },
+        "collection_item_G4Phwp": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "sweaters",
+            "image": "shopify://shop_images/rk_clt5.webp"
+          }
+        },
+        "collection_item_FMPdcf": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "dresses",
+            "image": "shopify://shop_images/rk_clt2.webp"
+          }
+        },
+        "collection_item_EkqzB6": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "shirts",
+            "image": "shopify://shop_images/rk_clt3.webp"
+          }
+        },
+        "collection_item_miHrKx": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "blazers",
+            "image": "shopify://shop_images/rk_clt1.webp"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_KK3qXW",
+        "collection_item_G4Phwp",
+        "collection_item_FMPdcf",
+        "collection_item_EkqzB6",
+        "collection_item_miHrKx"
+      ],
+      "settings": {
+        "heading": "Top Collections",
+        "heading_border": true,
+        "description": "<p>Express your style with our standout collection—fashion meets sophistication.</p>",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "design_layout": "carousel",
+        "design_collection": "design-4",
+        "hover_effect": "zoom",
+        "show_count_product": false,
+        "custom_width_images": false,
+        "width_image": 200,
+        "images_style": false,
+        "image_ratio": "3/4",
+        "custom_ratio": "21:9",
+        "custom_column": 4,
+        "custom_column_mobile": 2,
+        "custom_column_small_mobile": 2,
+        "column_gap": 30,
+        "collection_font_size": 16,
+        "collection_font_weight": 600,
+        "collection_spacing": 0,
+        "count_font_size": 14,
+        "count_font_weight": 400,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
+        "carousel_pagination": "carousel_none",
+        "reveal_on_scroll": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "custom_text_pg9V8t": {
+      "type": "custom-text",
+      "blocks": {
+        "heading_YTE7Pg": {
+          "type": "heading",
+          "settings": {
+            "heading": "We're on a mission to show the world that modern fashion can be both stylish and sustainable. Looking good doesn't have to cost the earth.",
+            "heading_fs": 28,
+            "heading_fw": "default",
+            "heading_tf": "unset",
+            "heading_mt": 0,
+            "heading_mb": 40
+          }
+        },
+        "buttons_KeCFKf": {
+          "type": "buttons",
+          "settings": {
+            "btn_content": "OUR PHILOSOPHY",
+            "button_type": "link",
+            "button_link": "shopify://pages/about-us",
+            "button_target": false,
+            "b_mt": 0,
+            "b_mb": 0
+          }
+        }
+      },
+      "block_order": [
+        "heading_YTE7Pg",
+        "buttons_KeCFKf"
+      ],
+      "settings": {
+        "container": "container",
+        "text_align": "text-center",
+        "color_scheme": "scheme-39dc080d-ae96-4cdd-8f57-b11d5217e9de",
+        "custom_class": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "banner_image_PerQVY": {
+      "type": "banner-image",
+      "blocks": {
+        "image_banner_E8qUwR": {
+          "type": "image_banner",
+          "settings": {
+            "banner_width": "8",
+            "banner_type": "image",
+            "image": "shopify://shop_images/fsr_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 30,
+            "link": "shopify://collections/sweaters",
+            "open_link": "_blank",
+            "content_banner_horizontal": "Bottom",
+            "subtext": "SAVE 30%—50% CLOTHING",
+            "title": "High—Top Design",
+            "content": "<p>In-store! Limited time offer.</p>",
+            "btn_content": "",
+            "button_type": "primary"
+          }
+        },
+        "image_banner_F64Nbj": {
+          "type": "image_banner",
+          "settings": {
+            "banner_width": "4",
+            "banner_type": "image",
+            "image": "shopify://shop_images/fsr_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 30,
+            "link": "shopify://collections/blazers",
+            "open_link": "_blank",
+            "content_banner_horizontal": "Bottom",
+            "subtext": "SAVE 30—50% BLAZES",
+            "title": "Colour Spotlight",
+            "content": "<p>In-store! Limited time offer.</p>",
+            "btn_content": "",
+            "button_type": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "image_banner_E8qUwR",
+        "image_banner_F64Nbj"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_border": false,
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
+        "show_box_background": false,
+        "color_background": "",
+        "bg_overlay": 100,
+        "column_gap": 30,
+        "layout_on_mobile": false,
+        "design_banner": "text-overlay-image",
+        "text_align": "text-center",
+        "hover_effect": "zoom",
+        "h_font_size": 36,
+        "h_font_weight": "default",
+        "h_spacing": 20,
+        "sub_font_size": 16,
+        "sub_font_weight": "400",
+        "sub_spacing": 5,
+        "des_font_size": 15,
+        "des_font_weight": "default",
+        "des_spacing": 0,
+        "button_font_size": 16,
+        "button_font_weight": "default",
+        "button_spacing": 0,
+        "image_behavior": "none",
+        "text_position": "center",
+        "content_on_mobile": false,
+        "reset_color_mb": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_NyQg33": {
+      "type": "products-carousel",
+      "settings": {
+        "heading": "Our Bestsellers",
+        "heading_border": true,
+        "description": "<p>Unmatched design—superior performance and customer satisfaction in one.</p>",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "collection": "dresses",
+        "limit_products": 8,
+        "item_desktop": 4,
+        "column_gap": 30,
+        "item_mobile": false,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": true,
+        "carousel_pagination": "carousel_none",
+        "reveal_on_scroll": false,
+        "view_all_enable": false,
+        "text_view_all": "View All",
+        "enable_banner": false,
+        "banner_type": "image",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "banner_position": "position-left",
+        "banner_width": 30,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "banner_image_fAp8ab": {
+      "type": "banner-image",
+      "blocks": {
+        "image_banner_4zyTeb": {
+          "type": "image_banner",
+          "settings": {
+            "banner_width": "6",
+            "banner_type": "image",
+            "image": "shopify://shop_images/rkn_2.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
+            "link": "shopify://collections/charms-dangles",
+            "open_link": "_blank",
+            "content_banner_horizontal": "Bottom",
+            "subtext": "GRACE IN STYLE.",
+            "title": "Radiate Timeless Charm",
+            "content": "",
+            "btn_content": "DISCOVER COLLECTION",
+            "button_type": "secondary"
+          }
+        },
+        "image_banner_GazWU3": {
+          "type": "image_banner",
+          "settings": {
+            "banner_width": "6",
+            "banner_type": "image",
+            "image": "shopify://shop_images/rkn_1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
+            "link": "shopify://collections/dresses",
+            "open_link": "_blank",
+            "content_banner_horizontal": "Bottom",
+            "subtext": "BOLD & MODERN.",
+            "title": "Embrace Bold Fashion",
+            "content": "",
+            "btn_content": "DISCOVER COLLECTION",
+            "button_type": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "image_banner_4zyTeb",
+        "image_banner_GazWU3"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_border": false,
+        "description": "",
+        "text_alignment": "text-left",
+        "container": "container-fluid",
+        "color_scheme": "scheme-6de5e490-9ebf-4111-bce7-840b2d9c6f4c",
+        "show_box_background": true,
+        "color_background": "#ffffff",
+        "bg_overlay": 88,
+        "column_gap": 30,
+        "layout_on_mobile": false,
+        "design_banner": "text-overlay-image",
+        "text_align": "text-center",
+        "hover_effect": "zoom",
+        "h_font_size": 28,
+        "h_font_weight": "default",
+        "h_spacing": 10,
+        "sub_font_size": 14,
+        "sub_font_weight": "500",
+        "sub_spacing": 5,
+        "des_font_size": 15,
+        "des_font_weight": "default",
+        "des_spacing": 20,
+        "button_font_size": 14,
+        "button_font_weight": "600",
+        "button_spacing": 0,
+        "image_behavior": "none",
+        "text_position": "bottom",
+        "content_on_mobile": true,
+        "reset_color_mb": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "products_carousel_cNaKhf": {
+      "type": "products-carousel",
+      "settings": {
+        "heading": "Trending Outfits",
+        "heading_border": true,
+        "description": "<p>Unmatched design—superior performance and customer satisfaction in one.</p>",
+        "text_alignment": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "collection": "shirts",
+        "limit_products": 8,
+        "item_desktop": 4,
+        "column_gap": 30,
+        "item_mobile": false,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": true,
+        "carousel_pagination": "carousel_none",
+        "reveal_on_scroll": false,
+        "view_all_enable": false,
+        "text_view_all": "View All",
+        "enable_banner": false,
+        "banner_type": "image",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "banner_position": "position-left",
+        "banner_width": 30,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "banner_with_text_MFqmbz": {
+      "type": "banner-with-text",
+      "blocks": {
+        "heading_BW9WEk": {
+          "type": "heading",
+          "settings": {
+            "title": "Black Friday Sale",
+            "heading_fs": 40,
+            "heading_fw": "default",
+            "heading_tf": "uppercase",
+            "heading_mt": 0,
+            "heading_mb": 20
+          }
+        },
+        "text_37wNd9": {
+          "type": "text",
+          "settings": {
+            "txt_content": "<p>Discounts of up to 50% on select styles.</p>",
+            "txt_fs": 15,
+            "txt_fw": "default",
+            "txt_tf": "unset",
+            "txt_mt": 0,
+            "txt_mb": 30
+          }
+        },
+        "countdown_bn_wqeApM": {
+          "type": "countdown_bn",
+          "settings": {
+            "countdown_design": "countdown_design_2",
+            "bn_end_time": "12-24-2025",
+            "bn_txt_fs": 14,
+            "number_txt_fs": 32,
+            "bn_txt_fw": 600,
+            "bn_txt_tf": "uppercase",
+            "bn_txt_mt": 0,
+            "bn_txt_mb": 50
+          }
+        },
+        "buttons_WJCgfp": {
+          "type": "buttons",
+          "settings": {
+            "btn_content": "Get at Only  $158.00",
+            "button_type": "secondary",
+            "button_link": "shopify://collections",
+            "button_target": false,
+            "b_mt": 0,
+            "b_mb": 0
+          }
+        }
+      },
+      "block_order": [
+        "heading_BW9WEk",
+        "text_37wNd9",
+        "countdown_bn_wqeApM",
+        "buttons_WJCgfp"
+      ],
+      "settings": {
+        "container": "full-width",
+        "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
+        "image_behavior": "fixed",
+        "banner_type": "image",
+        "image": "shopify://shop_images/fsr_5.jpg",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "link": "",
+        "open_link": "_blank",
+        "image_position": "left",
+        "bn_design": "text_overlay",
+        "text_align": "text-center",
+        "text_horizontal_position": "center",
+        "text_position": "center",
+        "content_bg_color": "#111111",
+        "background_gradient": "",
+        "content_width": 100,
+        "banner_height": "custom-height",
+        "height_dk": 600,
+        "height_tb": 500,
+        "height_mb": 450,
+        "height_full": false,
+        "content_box": "content_in_container_fullwidth",
+        "bg_opacity": 30,
+        "full_box": true,
+        "text_bellow_mobile": false,
+        "img_position": "left",
+        "banner_width": "col-md-6",
+        "column_gap": 30,
+        "hover_effect": "none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": true
+      }
+    },
+    "scrolling_text_ippXrq": {
+      "type": "scrolling-text",
+      "blocks": {
+        "scrolling_text_FgaAaR": {
+          "type": "scrolling_text",
+          "settings": {
+            "content": "<p>Chic Styles Await!</p>",
+            "text_link": "shopify://collections/dresses"
+          }
+        },
+        "scrolling_text_MXR3jf": {
+          "type": "scrolling_text",
+          "settings": {
+            "content": "<p>Elevate Your Wardrobe!</p>",
+            "text_link": "shopify://collections/shirts"
+          }
+        },
+        "scrolling_text_YHXAXn": {
+          "type": "scrolling_text",
+          "settings": {
+            "content": "<p>Style Redefined.</p>",
+            "text_link": "shopify://collections/top-t-shirt"
+          }
+        },
+        "scrolling_text_zPywm9": {
+          "type": "scrolling_text",
+          "settings": {
+            "content": "<p>Shop The Trend!</p>",
+            "text_link": "shopify://collections/sweaters"
+          }
+        }
+      },
+      "block_order": [
+        "scrolling_text_FgaAaR",
+        "scrolling_text_MXR3jf",
+        "scrolling_text_YHXAXn",
+        "scrolling_text_zPywm9"
+      ],
+      "settings": {
+        "container": "full-width",
+        "color_scheme": "default-color-scheme",
+        "text_font_size": 30,
+        "text_font_weight": 600,
+        "text_time": 30,
+        "text_spacing": 60,
+        "text_title": true,
+        "text_design": true,
+        "spacing_icon": "icon_circle",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "reset_spacing": true
+      }
+    },
+    "divider_rmxMFX": {
+      "type": "divider",
+      "settings": {
+        "container": "full-width",
+        "border_height": 1,
+        "border_color": "#111111",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "product_testimonials_3TQQcU": {
+      "type": "product-testimonials",
+      "blocks": {
+        "testimonials_btrhL3": {
+          "type": "testimonials",
+          "settings": {
+            "image": "shopify://shop_images/rk_t1.webp",
+            "description": "<p>I just have to say, I am absolutely amazed by the quality of the suit I received! I’m seriously so impressed, and the price is unbeatable! I was a bit worried at first, but everything about it turned out perfect. Thank you so much!</p>",
+            "text_name": "Algistino Lionel.",
+            "product_item": "balloon-sleeved-dress"
+          }
+        },
+        "testimonials_Ve4JeD": {
+          "type": "testimonials",
+          "settings": {
+            "video_local": "",
+            "description": "<p>Beautiful pieces at affordable prices!!! You can never go wrong with that. Shipping is fast and and amazing customer service. Unique for wedding wear but still gorgeous and traditional!</p>",
+            "text_name": "Siarhei Dzenisenka",
+            "product_item": "gathered-sleeve-blazer"
+          }
+        },
+        "testimonials_WfnCt6": {
+          "type": "testimonials",
+          "settings": {
+            "image": "shopify://shop_images/rk_t2.webp",
+            "description": "<p>My experience with Rokan has been absolutely amazing!!! I love love love their service so much!!  I have ordered twice from their website already and they haven’t let me down!!!</p>",
+            "text_name": "Carie-Gosée H.",
+            "product_item": "teddy-bear-coats-copy"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials_btrhL3",
+        "testimonials_Ve4JeD",
+        "testimonials_WfnCt6"
+      ],
+      "settings": {
+        "heading": "Customer Say!",
+        "heading_border": true,
+        "description": "<p>Customers love our products and we always strive to please them all.</p>",
+        "text_align": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "default-color-scheme",
+        "show_rating": true,
+        "show_image": true,
+        "show_verified": true,
+        "img_view": "framed",
+        "img_position": "position-left",
+        "aspect_ratio": "3/4",
+        "custom_ratio": "21:9",
+        "content_width": 42,
+        "car_gap": 30,
+        "carousel_item_desktop": 2,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
+        "reveal_on_scroll": false,
+        "carousel_pagination": "carousel_none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "instagram_shop_jygw9E": {
+      "type": "instagram-shop",
+      "blocks": {
+        "lookbook_XiTxyY": {
+          "type": "lookbook",
+          "settings": {
+            "image": "shopify://shop_images/rk_i1.webp",
+            "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
+            "photographer": "",
+            "ig_text": "Follow Us  @Rokan",
+            "ig_link": "https://www.instagram.com/p/C_LUWMpSTJ5/",
+            "position_top_1": 39,
+            "position_left_1": 51,
+            "product_1": "teddy-bear-coats",
+            "position_top_2": 87,
+            "position_left_2": 24,
+            "product_2": "oversized-corduroy-shirt",
+            "position_top_3": 61,
+            "position_left_3": 48,
+            "product_3": "",
+            "position_top_4": 0,
+            "position_left_4": 0,
+            "product_4": "",
+            "position_top_5": 20,
+            "position_left_5": 0,
+            "product_5": ""
+          }
+        },
+        "lookbook_LfpHNq": {
+          "type": "lookbook",
+          "settings": {
+            "image": "shopify://shop_images/jk_i6.webp",
+            "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
+            "photographer": "",
+            "ig_text": "Follow Us  @Rokan",
+            "ig_link": "https://www.instagram.com/p/C_K6wKEyyuZ/",
+            "position_top_1": 26,
+            "position_left_1": 45,
+            "product_1": "oversized-quilted-coats",
+            "position_top_2": 57,
+            "position_left_2": 41,
+            "product_2": "wrapover-shirt-dress",
+            "position_top_3": 61,
+            "position_left_3": 48,
+            "product_3": "",
+            "position_top_4": 0,
+            "position_left_4": 0,
+            "product_4": "",
+            "position_top_5": 20,
+            "position_left_5": 0,
+            "product_5": ""
+          }
+        },
+        "lookbook_3DkmUp": {
+          "type": "lookbook",
+          "settings": {
+            "image": "shopify://shop_images/rk_i3.webp",
+            "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
+            "photographer": "",
+            "ig_text": "Follow Us  @Rokan",
+            "ig_link": "https://www.instagram.com/p/C_K6p2USaFc/",
+            "position_top_1": 39,
+            "position_left_1": 54,
+            "product_1": "long-sleeve-sweater",
+            "position_top_2": 76,
+            "position_left_2": 72,
+            "product_2": "long-sleeve-cotton-coat",
+            "position_top_3": 61,
+            "position_left_3": 48,
+            "product_3": "",
+            "position_top_4": 0,
+            "position_left_4": 0,
+            "product_4": "",
+            "position_top_5": 20,
+            "position_left_5": 0,
+            "product_5": ""
+          }
+        },
+        "lookbook_KGFTkD": {
+          "type": "lookbook",
+          "settings": {
+            "image": "shopify://shop_images/rk_i4.webp",
+            "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
+            "photographer": "",
+            "ig_text": "Follow Us  @Rokan",
+            "ig_link": "https://www.instagram.com/p/C_K6nnoyzLD/",
+            "position_top_1": 46,
+            "position_left_1": 43,
+            "product_1": "balloon-sleeved-dress-copy",
+            "position_top_2": 67,
+            "position_left_2": 71,
+            "product_2": "dress-with-long-sleeves",
+            "position_top_3": 61,
+            "position_left_3": 48,
+            "product_3": "",
+            "position_top_4": 0,
+            "position_left_4": 0,
+            "product_4": "",
+            "position_top_5": 20,
+            "position_left_5": 0,
+            "product_5": ""
+          }
+        },
+        "lookbook_t3q4jB": {
+          "type": "lookbook",
+          "settings": {
+            "image": "shopify://shop_images/rk_i5.webp",
+            "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
+            "photographer": "",
+            "ig_text": "Follow Us  @Rokan",
+            "ig_link": "https://www.instagram.com/p/C_LUTRASIZf/",
+            "position_top_1": 35,
+            "position_left_1": 52,
+            "product_1": "oversized-corduroy-shirt",
+            "position_top_2": 86,
+            "position_left_2": 45,
+            "product_2": "printed-long-sleeve-shir",
+            "position_top_3": 61,
+            "position_left_3": 48,
+            "product_3": "",
+            "position_top_4": 0,
+            "position_left_4": 0,
+            "product_4": "",
+            "position_top_5": 20,
+            "position_left_5": 0,
+            "product_5": ""
+          }
+        },
+        "lookbook_VJBXfb": {
+          "type": "lookbook",
+          "settings": {
+            "image": "shopify://shop_images/rk_i2.webp",
+            "ig_caption": "We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?\n#cotton #rokan #trending #sale",
+            "photographer": "",
+            "ig_text": "Follow Us  @Rokan",
+            "ig_link": "https://www.instagram.com/p/C_K6hrZyVu9/",
+            "position_top_1": 35,
+            "position_left_1": 63,
+            "product_1": "cotton-button-up-shirt",
+            "position_top_2": 86,
+            "position_left_2": 49,
+            "product_2": "stand-up-collar-blous",
+            "position_top_3": 61,
+            "position_left_3": 48,
+            "product_3": "",
+            "position_top_4": 0,
+            "position_left_4": 0,
+            "product_4": "",
+            "position_top_5": 20,
+            "position_left_5": 0,
+            "product_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "lookbook_XiTxyY",
+        "lookbook_LfpHNq",
+        "lookbook_3DkmUp",
+        "lookbook_KGFTkD",
+        "lookbook_t3q4jB",
+        "lookbook_VJBXfb"
+      ],
+      "settings": {
+        "heading": "Shop by gram",
+        "heading_border": true,
+        "description": "<p>Inspire and let yourself be inspired, from one unique fashion to another.</p>",
+        "text_alignment": "text-center",
+        "container": "strecth-width",
+        "color_scheme": "",
+        "design_layout": "slider",
+        "aspect_ratio": "1/1",
+        "custom_ratio": "21:9",
+        "column_gap": 30,
+        "slider_lookbook_items": 5,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
+        "carousel_pagination": "carousel_none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
+    "spacing_6we9zA": {
+      "type": "spacing",
+      "settings": {
+        "spacing_desktop": 0,
+        "spacing_moible": 0
+      }
+    }
+  },
+  "order": [
+    "0c521c75-5d82-4dd6-aecc-f519d8907411",
+    "collection_list_abd4bJ",
+    "custom_text_pg9V8t",
+    "banner_image_PerQVY",
+    "products_carousel_NyQg33",
+    "banner_image_fAp8ab",
+    "products_carousel_cNaKhf",
+    "banner_with_text_MFqmbz",
+    "scrolling_text_ippXrq",
+    "divider_rmxMFX",
+    "product_testimonials_3TQQcU",
+    "instagram_shop_jygw9E",
+    "spacing_6we9zA"
+  ]
+}

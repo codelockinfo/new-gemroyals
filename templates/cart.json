@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "container": "container-fluid",
+        "image_width": 300
+      }
+    }
+  },
+  "order": [
+    "cart-items"
+  ]
+}

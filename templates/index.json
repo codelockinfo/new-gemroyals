@@ -830,6 +830,58 @@
         "padding_bottom": 0,
         "reset_spacing": false
       }
+    },
+    "product_testimonials_f6EP9P": {
+      "type": "product-testimonials",
+      "blocks": {
+        "testimonials_MfRQPz": {
+          "type": "testimonials",
+          "settings": {
+            "description": "<p>You can add text content from press comments, reviews, or testimonials here.</p>",
+            "text_name": "Siarhei Dzenisenka",
+            "product_item": ""
+          }
+        },
+        "testimonials_D9wmJF": {
+          "type": "testimonials",
+          "settings": {
+            "description": "<p>You can add text content from press comments, reviews, or testimonials here.</p>",
+            "text_name": "Siarhei Dzenisenka",
+            "product_item": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonials_MfRQPz",
+        "testimonials_D9wmJF"
+      ],
+      "name": "t:sections.testimonials_product.name",
+      "settings": {
+        "heading": "Customer Say!",
+        "heading_border": false,
+        "description": "",
+        "text_align": "text-center",
+        "container": "container-fluid",
+        "color_scheme": "",
+        "show_rating": true,
+        "show_image": true,
+        "show_verified": true,
+        "img_view": "framed",
+        "img_position": "position-left",
+        "aspect_ratio": "3/4",
+        "custom_ratio": "21:9",
+        "content_width": 50,
+        "car_gap": 30,
+        "carousel_item_desktop": 2,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": true,
+        "reveal_on_scroll": false,
+        "carousel_pagination": "carousel_none",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
     }
   },
   "order": [
@@ -843,6 +895,7 @@
     "banner_image_FrjCUU",
     "icon_box_wyVBRj",
     "banner_with_text_ygcgwP",
-    "shopable_video_64AekP"
+    "shopable_video_64AekP",
+    "product_testimonials_f6EP9P"
   ]
 }

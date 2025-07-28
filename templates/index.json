@@ -921,6 +921,24 @@
           "settings": {
             "ig_link": ""
           }
+        },
+        "ig_img_local_zyibyU": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_link": ""
+          }
+        },
+        "ig_img_local_twgePF": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_link": ""
+          }
+        },
+        "ig_img_local_3fAcbH": {
+          "type": "ig_img_local",
+          "settings": {
+            "ig_link": ""
+          }
         }
       },
       "block_order": [
@@ -929,7 +947,10 @@
         "ig_img_local_gKr4Yr",
         "ig_img_local_WrgtHr",
         "ig_img_local_N8daLe",
-        "ig_img_local_7jkp9d"
+        "ig_img_local_7jkp9d",
+        "ig_img_local_zyibyU",
+        "ig_img_local_twgePF",
+        "ig_img_local_3fAcbH"
       ],
       "name": "t:sections.instagram.name",
       "settings": {
@@ -947,12 +968,12 @@
         "ig_image_show": "ig_type_local",
         "aspect_ratio": "1/1",
         "ig_ac": "",
-        "ig_num_imgs": 8,
+        "ig_num_imgs": 20,
         "ig_type": "carousel",
         "images_per_row_grid_d": 6,
         "carousel_autoplay": false,
         "carousel_loop": false,
-        "carousel_arrows": false,
+        "carousel_arrows": true,
         "carousel_pagination": "carousel_none",
         "padding_top": 0,
         "padding_bottom": 0,

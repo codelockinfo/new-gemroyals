@@ -421,7 +421,7 @@
           "type": "desc",
           "settings": {
             "desc": "<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra per inceptos vel pretium lectus qua. Nunc id cursus metus ididunt ut labore metus episcing.</p>",
-            "desc_fs": 16,
+            "desc_fs": 20,
             "desc_fw": "default",
             "content_width": 100,
             "desc_tf": "unset",

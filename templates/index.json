@@ -181,6 +181,72 @@
         "reset_spacing": false
       }
     },
+    "collection_tab_Ccmbi4": {
+      "type": "collection-tab",
+      "blocks": {
+        "collection_qJxFmH": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        },
+        "collection_xqRENz": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        },
+        "collection_9zXxGk": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        },
+        "collection_Qh3G3H": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_qJxFmH",
+        "collection_xqRENz",
+        "collection_9zXxGk",
+        "collection_Qh3G3H"
+      ],
+      "name": "t:sections.collection-tab.name",
+      "settings": {
+        "heading": "",
+        "heading_border": false,
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container",
+        "color_scheme": "",
+        "tab_design": "horizontal",
+        "tab_style": "tab_desgin_2",
+        "tab_type": "grid",
+        "limit_products": 8,
+        "item_desktop": 4,
+        "column_gap": 30,
+        "carousel_autoplay": false,
+        "carousel_loop": false,
+        "carousel_arrows": false,
+        "carousel_pagination": "carousel_none",
+        "number_of_rows": 1,
+        "load_more_button_enable": false,
+        "button_action": "load",
+        "button_label": "Load more",
+        "button_type": "primary",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
     "products_carousel_NyQg33": {
       "type": "products-carousel",
       "settings": {
@@ -723,6 +789,7 @@
   "order": [
     "0c521c75-5d82-4dd6-aecc-f519d8907411",
     "collection_list_abd4bJ",
+    "collection_tab_Ccmbi4",
     "products_carousel_NyQg33",
     "banner_image_fAp8ab",
     "products_carousel_cNaKhf",

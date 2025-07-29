@@ -37,29 +37,13 @@
     "header_KHzHmf": {
       "type": "header",
       "blocks": {
-        "menu_collection_mdTizi": {
-          "type": "menu_collection",
-          "settings": {
-            "text": "Engagement Rings",
-            "open-link-newtab": true,
-            "item_label": "unset",
-            "collection_menu_column": 4,
-            "mega_custom_width": 1030,
-            "full_width": true,
-            "collection_width": 60,
-            "collection_1": "",
-            "collection_2": "",
-            "collection_3": ""
-          }
-        },
         "menu_promotion_pVtyLB": {
           "type": "menu_promotion",
-          "disabled": true,
           "settings": {
             "text": "Engagement Rings",
             "open-link-newtab": true,
             "item_label": "unset",
-            "promotion_menu_column": 4,
+            "promotion_menu_column": 5,
             "mega_custom_width": 1030,
             "full_width": true,
             "promotion_position": "right",
@@ -103,7 +87,6 @@
         }
       },
       "block_order": [
-        "menu_collection_mdTizi",
         "menu_promotion_pVtyLB",
         "menu_promotion_DximVU",
         "menu_promotion_p8jxAx"

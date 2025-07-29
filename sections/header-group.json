@@ -29,7 +29,7 @@
         "show_store_page": false,
         "show_message": true,
         "message": "<p>Summer Sale 15% off! <a href=\"/collections/dresses\" title=\"Dresses\"><span style=\"text-decoration:underline\">Shop Now!</span></a></p>",
-        "menu": "top-menu",
+        "menu": "",
         "padding_top": 5,
         "padding_bottom": 5
       }
@@ -40,7 +40,7 @@
         "menu_collection_TXbppN": {
           "type": "menu_collection",
           "settings": {
-            "text": "Shop",
+            "text": "engagement rings",
             "open-link-newtab": true,
             "item_label": "unset",
             "collection_menu_column": 2,
@@ -64,7 +64,6 @@
             "promotion_position": "right",
             "promotion_image_style": "modern",
             "promotion_image_width": 22,
-            "promotion_image_1": "shopify://shop_images/bn_menu.jpg",
             "promotion_link_1": "shopify://collections",
             "promotion_link_2": ""
           }

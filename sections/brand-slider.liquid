@@ -140,6 +140,9 @@
       grid-template-columns: repeat(3, 1fr);
       /* display: flex; */
     }
+    .diamond-main-box > *:nth-last-child(1):nth-child(3n+1) {
+      grid-column: 2 / span 1; /* Put it in center column */
+    }
     .diamond-h1 {
       font-size: 30px;
       line-height: 60px;

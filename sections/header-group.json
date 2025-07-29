@@ -37,19 +37,20 @@
     "header_KHzHmf": {
       "type": "header",
       "blocks": {
-        "menu_collection_TXbppN": {
-          "type": "menu_collection",
+        "menu_promotion_pVtyLB": {
+          "type": "menu_promotion",
           "settings": {
             "text": "Engagement Rings",
             "open-link-newtab": true,
             "item_label": "unset",
-            "collection_menu_column": 2,
+            "promotion_menu_column": 4,
             "mega_custom_width": 1030,
-            "full_width": false,
-            "collection_width": 50,
-            "collection_1": "dresses",
-            "collection_2": "shirts",
-            "collection_3": ""
+            "full_width": true,
+            "promotion_position": "right",
+            "promotion_image_style": "modern",
+            "promotion_image_width": 30,
+            "promotion_link_1": "",
+            "promotion_link_2": ""
           }
         },
         "menu_promotion_DximVU": {
@@ -68,26 +69,27 @@
             "promotion_link_2": ""
           }
         },
-        "menu_product_G9xTNn": {
-          "type": "menu_product",
+        "menu_promotion_p8jxAx": {
+          "type": "menu_promotion",
           "settings": {
             "text": "Fine Jewelry",
             "open-link-newtab": true,
             "item_label": "unset",
-            "product_menu_column": 4,
+            "promotion_menu_column": 4,
             "mega_custom_width": 1030,
             "full_width": true,
-            "product_width": 50,
-            "product_1": "",
-            "product_2": "",
-            "product_3": ""
+            "promotion_position": "right",
+            "promotion_image_style": "modern",
+            "promotion_image_width": 30,
+            "promotion_link_1": "",
+            "promotion_link_2": ""
           }
         }
       },
       "block_order": [
-        "menu_collection_TXbppN",
+        "menu_promotion_pVtyLB",
         "menu_promotion_DximVU",
-        "menu_product_G9xTNn"
+        "menu_promotion_p8jxAx"
       ],
       "settings": {
         "section_width": "full-width",

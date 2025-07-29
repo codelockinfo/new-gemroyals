@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main-collection-heading": {
@@ -27,7 +27,6 @@
         "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
         "show_banner": true,
         "use_collection_image": false,
-        "image": "shopify://shop_images/shop-banner.png",
         "min_height": 200,
         "parallax": false,
         "show_overlay": true,
@@ -43,48 +42,42 @@
           "type": "collection_item",
           "settings": {
             "title_collection": "DRESSES",
-            "collection": "dresses",
-            "image": "shopify://shop_images/fs_t1.jpg"
+            "collection": "dresses"
           }
         },
         "template--16567751475447__8498460c-0376-40d1-bafc-199edbe0edfc-16665857567f9937b1-1": {
           "type": "collection_item",
           "settings": {
             "title_collection": "SHIRTS",
-            "collection": "shirts",
-            "image": "shopify://shop_images/fs_t3.jpg"
+            "collection": "shirts"
           }
         },
         "template--16567751475447__8498460c-0376-40d1-bafc-199edbe0edfc-16665857567f9937b1-2": {
           "type": "collection_item",
           "settings": {
             "title_collection": "SPORTSWEAR",
-            "collection": "sportswear",
-            "image": "shopify://shop_images/fs_t2.jpg"
+            "collection": "sportswear"
           }
         },
         "template--16567751475447__8498460c-0376-40d1-bafc-199edbe0edfc-16665857567f9937b1-3": {
           "type": "collection_item",
           "settings": {
             "title_collection": "SWEATERS",
-            "collection": "sweaters",
-            "image": "shopify://shop_images/fs_t4.jpg"
+            "collection": "sweaters"
           }
         },
         "616f3472-abe6-41ef-8d49-4e190d1fc5cc": {
           "type": "collection_item",
           "settings": {
             "title_collection": "TOP T-SHIRT",
-            "collection": "top-t-shirt",
-            "image": "shopify://shop_images/fs_t5.jpg"
+            "collection": "top-t-shirt"
           }
         },
         "36a53b4a-830c-4660-a410-d73343bf9d7d": {
           "type": "collection_item",
           "settings": {
             "title_collection": "WINTER COAT",
-            "collection": "winter-coat",
-            "image": "shopify://shop_images/fs_t6.jpg"
+            "collection": "winter-coat"
           }
         }
       },
@@ -138,13 +131,12 @@
           "type": "categories",
           "settings": {
             "title": "Collections",
-            "menu": "collections-sidebar"
+            "menu": ""
           }
         },
         "filter_by_dynamic_3hijwq": {
           "type": "filter_by_dynamic",
-          "settings": {
-          }
+          "settings": {}
         },
         "2039056a-3cc3-4534-a522-d35bdfbaef6c": {
           "type": "popular_product",
@@ -158,7 +150,6 @@
         "image_banner_gchgVp": {
           "type": "image_banner",
           "settings": {
-            "image": "shopify://shop_images/bn_sidebar_6b9646b8-9bf8-435b-83f7-5a5e2c1c851d.jpg",
             "url": "shopify://products/long-sleeve-sweater",
             "open_link": false
           }
@@ -181,13 +172,12 @@
         "product_sort_options": true,
         "progress_bar": true,
         "enable_sidebar": true,
-        "sidebar_position": "left_sidebar",
+        "sidebar_position": "dropdonw_sidebar",
         "show_count": true
       }
     },
     "sub-collection": {
       "type": "sub-collection",
-      "disabled": true,
       "settings": {
         "heading": "",
         "heading_border": false,

@@ -210,12 +210,22 @@
             "dia_title": "Emerald",
             "diamond_back": ""
           }
+        },
+        "text_qtpQVE": {
+          "type": "text",
+          "settings": {
+            "diamond_img": "shopify://shop_images/4-removebg-preview.webp",
+            "url": "",
+            "dia_title": "Cushion",
+            "diamond_back": ""
+          }
         }
       },
       "block_order": [
         "text_M6QJwy",
         "text_aTTVNP",
-        "text_wEkhd4"
+        "text_wEkhd4",
+        "text_qtpQVE"
       ],
       "name": "diamond section",
       "settings": {

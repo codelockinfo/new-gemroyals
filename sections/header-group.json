@@ -43,12 +43,13 @@
             "text": "Engagement Rings",
             "open-link-newtab": true,
             "item_label": "unset",
-            "promotion_menu_column": 5,
+            "promotion_menu_column": 4,
             "mega_custom_width": 1030,
             "full_width": true,
             "promotion_position": "right",
             "promotion_image_style": "modern",
             "promotion_image_width": 30,
+            "promotion_image_1": "shopify://shop_images/Vintage_Engagement_Rings__20_Styles_That_Never_Go_Out_of_Fashion_3.png",
             "promotion_link_1": "",
             "promotion_link_2": ""
           }

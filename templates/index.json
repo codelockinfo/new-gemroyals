@@ -184,81 +184,36 @@
     "brand_slider_R9WJaK": {
       "type": "brand-slider",
       "blocks": {
-        "text_YaV3td": {
-          "type": "text",
+        "shape_JXEeeA": {
+          "type": "shape",
           "settings": {
-            "diamond_img": "shopify://shop_images/a-photograph-of-a-dazzling-diamond-engag_2M5x1-eZTj6c0YLjQ587kQ_ebMrosepSyiwpQraiq5XnA.png",
-            "url": "",
-            "dia_title": "",
-            "diamond_back": ""
+            "icon": "shopify://shop_images/1-removebg-preview.webp",
+            "name": "round",
+            "link": ""
           }
         },
-        "text_QEzcWk": {
-          "type": "text",
+        "shape_HXHMVk": {
+          "type": "shape",
           "settings": {
-            "diamond_img": "shopify://shop_images/a-photograph-showcasing-a-woman-s-hand-a_RtiIhxmLRdSOEpV3djQQPg_gwYwvmMiSwmr2kiCN4yHLQ.png",
-            "url": "",
-            "dia_title": "",
-            "diamond_back": ""
+            "name": "",
+            "link": ""
           }
         },
-        "text_icxPdN": {
-          "type": "text",
+        "shape_gRDaH4": {
+          "type": "shape",
           "settings": {
-            "diamond_img": "shopify://shop_images/a-photograph-of-a-dazzling-diamond-engag_2M5x1-eZTj6c0YLjQ587kQ_ebMrosepSyiwpQraiq5XnA.png",
-            "url": "",
-            "dia_title": "",
-            "diamond_back": ""
-          }
-        },
-        "text_Dxtr87": {
-          "type": "text",
-          "settings": {
-            "url": "",
-            "dia_title": "",
-            "diamond_back": ""
-          }
-        },
-        "text_KRa8Q8": {
-          "type": "text",
-          "settings": {
-            "url": "",
-            "dia_title": "",
-            "diamond_back": ""
-          }
-        },
-        "text_EfJciP": {
-          "type": "text",
-          "settings": {
-            "url": "",
-            "dia_title": "",
-            "diamond_back": ""
-          }
-        },
-        "text_bKfYEd": {
-          "type": "text",
-          "settings": {
-            "url": "",
-            "dia_title": "",
-            "diamond_back": ""
+            "name": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "text_YaV3td",
-        "text_QEzcWk",
-        "text_icxPdN",
-        "text_Dxtr87",
-        "text_KRa8Q8",
-        "text_EfJciP",
-        "text_bKfYEd"
+        "shape_JXEeeA",
+        "shape_HXHMVk",
+        "shape_gRDaH4"
       ],
-      "disabled": true,
       "name": "diamond section",
-      "settings": {
-        "dia_heading": "Shop by Shape",
-        "background": ""
-      }
+      "settings": {}
     },
     "collection_tab_Ccmbi4": {
       "type": "collection-tab",
@@ -321,7 +276,7 @@
         "button_action": "load",
         "button_label": "Load more",
         "button_type": "primary",
-        "padding_top": 0,
+        "padding_top": 42,
         "padding_bottom": 0,
         "reset_spacing": false
       }

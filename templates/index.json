@@ -203,7 +203,8 @@
         "shape_gRDaH4": {
           "type": "shape",
           "settings": {
-            "name": "",
+            "icon": "shopify://shop_images/3-removebg-preview.webp",
+            "name": "Emerald",
             "link": ""
           }
         }

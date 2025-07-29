@@ -1,12 +1,10 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <div class=" dimond-grid-section">
   <div class="width-container">
     <div class="head">
       <h2 class="diamond-h1">{{ section.settings.dia_heading }}</h2>
     </div>
 
-     <div class="swiper diamondSlider">
+     <div class=" diamondSlider">
       <div class="diamond-main-box ">
         {% for block in section.blocks %}
           <div class="diamond-box swiper-slide">
@@ -157,7 +155,7 @@
     }
   }
 </style>
-<script>
+<!-- <script>
     if ( $(window).width() <=  576 ) {
       var swiper = new Swiper(".diamondSlider", {
         slidesPerView: 3,
@@ -170,4 +168,4 @@
         }
       });
     }
-  </script>
+  </script> -->

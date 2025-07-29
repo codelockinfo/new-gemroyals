@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "breadcrumb": {
@@ -29,8 +29,7 @@
         },
         "4fb992c4-abd8-4a65-a790-09cd83721e45": {
           "type": "product_label",
-          "settings": {
-          }
+          "settings": {}
         },
         "82f7102f-e1b6-4eb3-89b7-ee189edc5f76": {
           "type": "product_title",
@@ -49,8 +48,7 @@
         },
         "7d760b32-e8e4-42d9-8998-91d6fb23aaef": {
           "type": "product_price",
-          "settings": {
-          }
+          "settings": {}
         },
         "dbd063d5-9b87-45d4-9984-deb077fa0e85": {
           "type": "short_description",
@@ -76,8 +74,7 @@
         },
         "3870a5bb-fec0-4b82-9405-e324077ed947": {
           "type": "product_swatch",
-          "settings": {
-          }
+          "settings": {}
         },
         "062f7cd6-1265-4c29-a22c-e2bbebc5f2b6": {
           "type": "product_addons",
@@ -127,20 +124,13 @@
             "label_quantity_product_information": false
           }
         },
-        "appstle_subscription_appstle_subscription_product_page_widget_TiJ86K": {
-          "type": "shopify://apps/appstle-subscription/blocks/appstle-subscription-product-page-widget/fe257d39-6f88-4f35-ab08-bd437e3aa94e",
-          "settings": {
-          }
-        },
         "product_group_DebTpa": {
           "type": "product_group",
-          "settings": {
-          }
+          "settings": {}
         },
         "fb4d791a-e332-4dc8-b188-114a9e802869": {
           "type": "pickup_availability",
-          "settings": {
-          }
+          "settings": {}
         },
         "c772ce81-4aa5-415d-8939-631c6d4897ff": {
           "type": "delivery_return",
@@ -166,7 +156,6 @@
           "type": "trust_badge",
           "settings": {
             "heading": "<p>Guarantee safe checkout</p>",
-            "image": "shopify://shop_images/payment_detail.png",
             "image_width": 400,
             "position": "above"
           }
@@ -188,7 +177,6 @@
         "b328bd75-b508-4fed-84c2-6727ff481d16",
         "f98b666a-7c37-41ed-be7b-4a28f4a1e8b4",
         "37f20969-8bae-47ff-89e1-b0be3169e19a",
-        "appstle_subscription_appstle_subscription_product_page_widget_TiJ86K",
         "product_group_DebTpa",
         "fb4d791a-e332-4dc8-b188-114a9e802869",
         "c772ce81-4aa5-415d-8939-631c6d4897ff",
@@ -223,8 +211,7 @@
         },
         "judge_me_reviews_review_widget_Rdacqi": {
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+          "settings": {}
         },
         "de7d437d-d088-49b0-9426-0e78b2a44fd7": {
           "type": "custom_tab",
@@ -269,7 +256,7 @@
           "type": "categories",
           "settings": {
             "title": "Products category",
-            "menu": "collections-sidebar"
+            "menu": ""
           }
         },
         "shipping": {
@@ -315,8 +302,7 @@
     },
     "loox-product-reviews-app-section": {
       "type": "apps",
-      "settings": {
-      }
+      "settings": {}
     },
     "b85c568e-3b8d-48c8-ac89-c45b5bb72dc6": {
       "type": "products-recently-viewed",

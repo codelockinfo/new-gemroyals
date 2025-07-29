@@ -584,6 +584,96 @@
         "reset_spacing": false
       }
     },
+    "brand_list_GfJxWQ": {
+      "type": "brand-list",
+      "blocks": {
+        "brand_F8YUYY": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify://shop_images/a-photograph-of-an-elegant-engagement-ri_MCYtOwPOTpi3vZVuowsiZg_zp3Snd9TRR-01fnqCTZ53Q.png",
+            "url": "",
+            "open_link": "_blank"
+          }
+        },
+        "brand_63VYmV": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify://shop_images/a-photograph-of-a-dazzling-diamond-engag_jqVZi74XTZeQa6PG1Izl8Q_fvHru2TMSu-sipXxpA_lBw.png",
+            "url": "",
+            "open_link": "_blank"
+          }
+        },
+        "brand_DTmXyT": {
+          "type": "brand",
+          "settings": {
+            "image": "shopify://shop_images/a-photograph-showcasing-a-woman-s-hand-a_RtiIhxmLRdSOEpV3djQQPg_gwYwvmMiSwmr2kiCN4yHLQ.png",
+            "url": "",
+            "open_link": "_blank"
+          }
+        },
+        "brand_3Qz6np": {
+          "type": "brand",
+          "settings": {
+            "url": "",
+            "open_link": "_blank"
+          }
+        },
+        "brand_jgrhdW": {
+          "type": "brand",
+          "settings": {
+            "url": "",
+            "open_link": "_blank"
+          }
+        },
+        "brand_XNNreB": {
+          "type": "brand",
+          "settings": {
+            "url": "",
+            "open_link": "_blank"
+          }
+        }
+      },
+      "block_order": [
+        "brand_F8YUYY",
+        "brand_63VYmV",
+        "brand_DTmXyT",
+        "brand_3Qz6np",
+        "brand_jgrhdW",
+        "brand_XNNreB"
+      ],
+      "name": "4. Brand list",
+      "settings": {
+        "title": "",
+        "sub_title": "",
+        "sub_font": "2",
+        "style_title": "title_1",
+        "ic_tt": "gem",
+        "show_clpr": false,
+        "brand_layout": "1",
+        "cat_space": "30",
+        "col": "2",
+        "col_md": "6",
+        "col_mb": "6",
+        "brand_hover": "0",
+        "loop": true,
+        "autoplay": false,
+        "au_time": 0,
+        "au_hover": true,
+        "button": false,
+        "btn_vi": "1",
+        "btn_owl": "2",
+        "btn_color": "0",
+        "dot": true,
+        "dot_owl": "1",
+        "dot_color": "1",
+        "layout": "wrap",
+        "cl_bg": "",
+        "mg": "50px,,50px,",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    },
     "banner_with_text_ygcgwP": {
       "type": "banner-with-text",
       "blocks": {
@@ -916,6 +1006,7 @@
     "custom_text_ADmdGP",
     "icon_box_hUjRLr",
     "banner_image_FrjCUU",
+    "brand_list_GfJxWQ",
     "banner_with_text_ygcgwP",
     "shopable_video_64AekP",
     "product_testimonials_f6EP9P",

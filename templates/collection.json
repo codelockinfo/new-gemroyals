@@ -156,7 +156,7 @@
       "settings": {
         "container": "container-fluid",
         "enable_list_view": false,
-        "products_column": 3,
+        "products_column": 4,
         "number_products_grid": 12,
         "number_products_list": 4,
         "pagination": "default",

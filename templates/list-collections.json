@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -16,64 +16,56 @@
           "type": "collection",
           "settings": {
             "title_collection": "",
-            "collection": "dresses",
-            "image": "shopify:\/\/shop_images\/fs_t1.jpg"
+            "collection": "dresses"
           }
         },
         "collection_A6NFpH": {
           "type": "collection",
           "settings": {
             "title_collection": "",
-            "collection": "shirts",
-            "image": "shopify:\/\/shop_images\/fs_t3.jpg"
+            "collection": "shirts"
           }
         },
         "collection_ghBXJ9": {
           "type": "collection",
           "settings": {
             "title_collection": "",
-            "collection": "sportswear",
-            "image": "shopify:\/\/shop_images\/fs_t2.jpg"
+            "collection": "sportswear"
           }
         },
         "collection_hdUjq7": {
           "type": "collection",
           "settings": {
             "title_collection": "",
-            "collection": "sweaters",
-            "image": "shopify:\/\/shop_images\/fs_t4.jpg"
+            "collection": "sweaters"
           }
         },
         "collection_gRYneh": {
           "type": "collection",
           "settings": {
             "title_collection": "",
-            "collection": "top-t-shirt",
-            "image": "shopify:\/\/shop_images\/fs_t5.jpg"
+            "collection": "top-t-shirt"
           }
         },
         "collection_4WcCqb": {
           "type": "collection",
           "settings": {
             "title_collection": "",
-            "collection": "winter-coat",
-            "image": "shopify:\/\/shop_images\/fs_t6.jpg"
+            "collection": "winter-coat"
           }
         },
         "collection_QiE7ET": {
           "type": "collection",
           "settings": {
             "title_collection": "",
-            "collection": "underwear",
-            "image": "shopify:\/\/shop_images\/fs_t7.jpg"
+            "collection": "underwear"
           }
         },
         "collection_97JpwE": {
           "type": "collection",
           "settings": {
             "title_collection": "Best seller",
-            "collection": "handbag",
-            "image": "shopify:\/\/shop_images\/fs_t8.jpg"
+            "collection": "handbag"
           }
         }
       },
@@ -93,7 +85,7 @@
         "des_collection": "Posuere in netus a eu varius adipiscing suspendisse elementum vitae tempor suspendisse\nullamcorper aenean taciti morbi potenti.",
         "type": "custom",
         "sort": "alphabetical",
-        "layout": "layout-1",
+        "layout": "layout-2",
         "hover_effect": "zoom",
         "image_ratio": "custom",
         "custom_ratio": "100:118",

@@ -184,38 +184,34 @@
     "brand_slider_R9WJaK": {
       "type": "brand-slider",
       "blocks": {
-        "shape_JXEeeA": {
-          "type": "shape",
+        "text_M6QJwy": {
+          "type": "text",
           "settings": {
-            "icon": "shopify://shop_images/1-removebg-preview.webp",
-            "name": "round",
-            "link": ""
+            "diamond_img": "shopify://shop_images/1-removebg-preview.webp",
+            "url": "",
+            "dia_title": "Round",
+            "diamond_back": ""
           }
         },
-        "shape_HXHMVk": {
-          "type": "shape",
+        "text_aTTVNP": {
+          "type": "text",
           "settings": {
-            "icon": "shopify://shop_images/2-removebg-preview.webp",
-            "name": "Oval",
-            "link": ""
-          }
-        },
-        "shape_gRDaH4": {
-          "type": "shape",
-          "settings": {
-            "icon": "shopify://shop_images/3-removebg-preview.webp",
-            "name": "Emerald",
-            "link": ""
+            "diamond_img": "shopify://shop_images/2-removebg-preview.webp",
+            "url": "",
+            "dia_title": "Oval",
+            "diamond_back": ""
           }
         }
       },
       "block_order": [
-        "shape_JXEeeA",
-        "shape_HXHMVk",
-        "shape_gRDaH4"
+        "text_M6QJwy",
+        "text_aTTVNP"
       ],
       "name": "diamond section",
-      "settings": {}
+      "settings": {
+        "dia_heading": "Shop by Daimond shape",
+        "background": ""
+      }
     },
     "collection_tab_Ccmbi4": {
       "type": "collection-tab",

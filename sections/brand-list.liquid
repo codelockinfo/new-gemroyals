@@ -1,3 +1,9 @@
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
 {% schema %}
 {
   "name": "Brand List",
@@ -54,15 +60,15 @@
     margin-top: {{ section.settings.margin_top }}px;
     margin-bottom: {{ section.settings.margin_bottom }}px;
   }
-  .brand-list-container{
+
+  .brand-list-container {
     max-width: 1440px;
     margin: 0 auto;
   }
+
   .brand-list-wrapper {
-    width: 100%;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    justify-content: center;
     gap: 2rem;
   }
 
@@ -75,12 +81,28 @@
   .brand-logo img {
     max-width: 100%;
     height: auto;
-    width: auto;
+  }
+
+  @media screen and (max-width: 768px) {
+    .brand-list-wrapper {
+      display: none; /* Hide grid on mobile */
+    }
+    .brand-slider {
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: 769px) {
+    .brand-slider {
+      display: none;
+    }
   }
 {% endstyle %}
 
 <div class="brand-list-section">
   <div class="brand-list-container">
+    
+    <!-- Desktop Grid -->
     <div class="brand-list-wrapper">
       {% for block in section.blocks %}
         {% if block.settings.brand_image %}
@@ -94,5 +116,44 @@
         {% endif %}
       {% endfor %}
     </div>
+
+    <!-- Mobile Swiper Slider -->
+    <div class="swiper brand-slider">
+      <div class="swiper-wrapper">
+        {% for block in section.blocks %}
+          {% if block.settings.brand_image %}
+            <div class="swiper-slide brand-logo">
+              <img
+                src="{{ block.settings.brand_image | image_url: width: 300 }}"
+                alt="Brand Logo"
+                loading="lazy"
+              >
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
   </div>
 </div>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Swiper('.brand-slider', {
+      slidesPerView: 3,
+      spaceBetween: 20,
+      loop: true,
+      autoplay: {
+        delay: 2500,
+        disableOnInteraction: false
+      },
+      breakpoints: {
+        0: {
+          slidesPerView: 2
+        },
+        480: {
+          slidesPerView: 3
+        }
+      }
+    });
+  });
+</script>

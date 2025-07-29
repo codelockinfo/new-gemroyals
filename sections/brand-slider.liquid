@@ -35,30 +35,37 @@
 }
 {% endschema %}
 
-<div class="diamond-shapes text-center">
-  <h2 class="text-3xl font-bold mb-6">Shop Diamonds by Shape</h2>
-  <div class="flex flex-wrap justify-center gap-6">
-    {% for block in section.blocks %}
-      <div class="shape-item text-center w-24">
-        <a href="{{ block.settings.link }}">
-          {% if block.settings.icon %}
-            <img src="{{ block.settings.icon | image_url: width: 100 }}" alt="{{ block.settings.name }}" class="mx-auto mb-2" />
-          {% endif %}
-          <p class="text-sm font-medium capitalize">{{ block.settings.name }}</p>
-        </a>
-      </div>
-    {% endfor %}
+<div class="shopify-section diamond-shapes-wrapper">
+  <div class="page-width text-center">
+    <h2 class="text-3xl font-bold mb-6">Shop Diamonds by Shape</h2>
+
+    <div class="flex flex-wrap justify-center gap-8">
+      {% for block in section.blocks %}
+        <div class="shape-item text-center w-24">
+          <a href="{{ block.settings.link }}">
+            {% if block.settings.icon %}
+              <img src="{{ block.settings.icon | image_url: width: 100 }}" alt="{{ block.settings.name }}" class="mx-auto mb-2" />
+            {% endif %}
+            <p class="text-sm font-medium capitalize">{{ block.settings.name }}</p>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
 
 <style>
-  .diamond-shapes img {
+  .diamond-shapes-wrapper {
+    padding: 40px 0;
+  }
+
+  .diamond-shapes-wrapper img {
     max-height: 80px;
     object-fit: contain;
   }
 
   @media screen and (max-width: 768px) {
-    .diamond-shapes .shape-item {
+    .diamond-shapes-wrapper .shape-item {
       width: 80px;
     }
   }

@@ -37,6 +37,10 @@
             "font_size": 30
           }
         },
+        "judge_me_reviews_verified_badge_yzNMem": {
+          "type": "shopify://apps/judge-me-reviews/blocks/verified_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
         "836d9723-358d-4023-88a8-2d3b5907093e": {
           "type": "review_sold",
           "settings": {
@@ -165,6 +169,7 @@
         "product_vendor_4g3CYC",
         "4fb992c4-abd8-4a65-a790-09cd83721e45",
         "82f7102f-e1b6-4eb3-89b7-ee189edc5f76",
+        "judge_me_reviews_verified_badge_yzNMem",
         "836d9723-358d-4023-88a8-2d3b5907093e",
         "7d760b32-e8e4-42d9-8998-91d6fb23aaef",
         "dbd063d5-9b87-45d4-9984-deb077fa0e85",

@@ -146,20 +146,12 @@
             "type_product": "list",
             "maximum": 3
           }
-        },
-        "image_banner_gchgVp": {
-          "type": "image_banner",
-          "settings": {
-            "url": "shopify://products/long-sleeve-sweater",
-            "open_link": false
-          }
         }
       },
       "block_order": [
         "35c81196-1f20-4b1d-98e4-1bea284fe6d7",
         "filter_by_dynamic_3hijwq",
-        "2039056a-3cc3-4534-a522-d35bdfbaef6c",
-        "image_banner_gchgVp"
+        "2039056a-3cc3-4534-a522-d35bdfbaef6c"
       ],
       "settings": {
         "container": "container-fluid",

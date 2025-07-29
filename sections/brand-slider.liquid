@@ -1,72 +1,173 @@
-{% schema %}
-{
-  "name": "Diamond Shape Collection",
-  "settings": [],
-  "blocks": [
-    {
-      "type": "shape",
-      "name": "Diamond Shape",
-      "settings": [
-        {
-          "type": "image_picker",
-          "id": "icon",
-          "label": "Diamond Image"
-        },
-        {
-          "type": "text",
-          "id": "name",
-          "label": "Shape Name"
-        },
-        {
-          "type": "url",
-          "id": "link",
-          "label": "Link URL"
-        }
-      ]
-    }
-  ],
-  "max_blocks": 12,
-  "presets": [
-    {
-      "name": "Diamond Shapes Section",
-      "category": "Custom"
-    }
-  ]
-}
-{% endschema %}
-
-<div class="shopify-section diamond-shapes-wrapper">
-  <div class="page-width text-center">
-    <h2 class="text-3xl font-bold mb-6">Shop Diamonds by Shape</h2>
-
-    <div class="flex flex-wrap justify-center gap-8 mx-auto max-w-6xl">
-      {% for block in section.blocks %}
-        <div class="shape-item text-center w-24">
-          <a href="{{ block.settings.link }}">
-            {% if block.settings.icon %}
-              <img src="{{ block.settings.icon | image_url: width: 100 }}" alt="{{ block.settings.name }}" class="mx-auto mb-2" />
-            {% endif %}
-            <p class="text-sm font-medium capitalize">{{ block.settings.name }}</p>
-          </a>
-        </div>
-      {% endfor %}
+<div class=" dimond-grid-section">
+  <div class="width-container">
+    <div class="head">
+      <h2 class="diamond-h1">{{ section.settings.dia_heading }}</h2>
     </div>
+
+     <div class="swiper diamondSlider">
+      <div class="diamond-main-box swiper-wrapper">
+        {% for block in section.blocks %}
+          <div class="diamond-box swiper-slide">
+        {% if block.settings.url != blank %}<a href="{{ block.settings.url }}">{% endif %}
+              <div class="diamond-img-box " style="background-color:{{block.settings.diamond_back}};">
+                {% if block.settings.diamond_img != blank %}
+                  <img src="{{ block.settings.diamond_img | img_url: 'master' }}" class="diamond-img">
+                {% endif %}
+              </div>
+              <h2 class="diamond-h2">
+                {% if block.settings.dia_title != blank %}
+                  {{ block.settings.dia_title }}
+                {% endif %}
+              </h2>
+              {% if block.settings.url != blank %}</a>{% endif %}
+          </div>
+        {% endfor %}
+      </div>
+     </div>
+     
+
   </div>
 </div>
 
+{% schema %}
+  {
+    "name": "diamond Section",
+    "settings": [
+      {
+        "id": "dia_heading",
+        "type": "text",
+        "label": "Heading"
+      }, {
+        "id": "background",
+        "type": "color",
+        "label": "Background Color"
+      }
+    ],
+    "blocks": [
+      {
+        "name": "block",
+        "type": "text",
+        "settings": [
+          {
+            "id": "diamond_img",
+            "type": "image_picker",
+            "label": "Image"
+          }, 
+          {
+            "label": "Link",
+            "id": "url",
+            "type": "url"
+          },
+          {
+            "id": "dia_title",
+            "type": "text",
+            "label": "Image heading"
+          }, {
+            "id": "diamond_back",
+            "type": "color",
+            "label": "Diamond backgroud"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "diamond section"
+      }
+    ]
+  }
+{% endschema %}
 <style>
-  .diamond-shapes-wrapper {
-    padding: 40px 0;
+  .dimond-grid-section {
+    background-color: {{ section.settings.background }};
+    padding-bottom: 80px;
+    padding-top: 140px;
+  }
+  .diamond-main-box {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
   }
 
-  .diamond-shapes-wrapper img {
-    max-height: 80px;
-    object-fit: contain;
+  .diamond-h2 {
+    font-size: 16px;
+    line-height: 36px;
+    text-align: center;
+    font-weight: 600px;
+    font-family: 'Roboto', sans-serif !important;
+    color: #777777;
   }
+  .diamond-h1 {
+    font-size: 64px;
+    line-height: 83.43px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Roboto', serif !important;
+    color: #282828;
+  }
+  .diamond-box {
+    margin: 10px;
+  }
+  .diamond-img {
+    width: 100%;
+  }
+  .diamond-img-box {
+    padding: 10px;
+  }
+  @media (max-width: 1024px) {
+    .diamond-main-box {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+  @media (max-width: 768px) {
 
-  @media screen and (max-width: 768px) {
-    .diamond-shapes-wrapper .shape-item {
-      width: 80px;
+    .diamond-h1 {
+      font-size: 50px;
+    }
+  }
+  @media (max-width: 680px) {
+    .diamond-main-box {
+      grid-template-columns: repeat(4, 1fr);
+    }
+    .diamond-h1 {
+      font-size: 50px;
+    }
+  }
+  @media (max-width: 576px) {
+    
+  .diamond-main-box {
+      /* grid-template-columns: repeat(1, 1fr); */
+      display: flex;
+    }
+    .diamond-h1 {
+      font-size: 40px;
+      line-height: 60px;
+    }
+  }
+  @media (max-width: 400px) {
+   
+    .diamond-h1 {
+      font-size: 30px;
+      line-height: 60px;
+    }
+    
+  }
+  @media (min-width:0px) and (max-width:400px) {
+    .dimond-grid-section {
+      padding-top:220px ;
     }
   }
 </style>
+<script>
+    if ( $(window).width() <=  576 ) {
+      var swiper = new Swiper(".diamondSlider", {
+        slidesPerView: 3,
+        spaceBetween: 5,
+        breakpoints:{
+          375:{
+            slidesPerView: 2,
+        spaceBetween: 5,
+          }
+        }
+      });
+    }
+  </script>

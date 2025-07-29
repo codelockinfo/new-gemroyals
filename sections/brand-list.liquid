@@ -54,10 +54,12 @@
     margin-top: {{ section.settings.margin_top }}px;
     margin-bottom: {{ section.settings.margin_bottom }}px;
   }
-
-  .brand-list-wrapper {
+  .brand-list-container{
     max-width: 1440px;
     margin: 0 auto;
+  }
+  .brand-list-wrapper {
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -80,17 +82,19 @@
 {% endstyle %}
 
 <div class="brand-list-section">
-  <div class="brand-list-wrapper">
-    {% for block in section.blocks %}
-      {% if block.settings.brand_image %}
-        <div class="brand-logo">
-          <img
-            src="{{ block.settings.brand_image | image_url: width: 300 }}"
-            alt="Brand Logo"
-            loading="lazy"
-          >
-        </div>
-      {% endif %}
-    {% endfor %}
+  <div class="brand-list-container">
+    <div class="brand-list-wrapper">
+      {% for block in section.blocks %}
+        {% if block.settings.brand_image %}
+          <div class="brand-logo">
+            <img
+              src="{{ block.settings.brand_image | image_url: width: 300 }}"
+              alt="Brand Logo"
+              loading="lazy"
+            >
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>

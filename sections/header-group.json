@@ -67,11 +67,27 @@
             "promotion_link_1": "shopify://collections",
             "promotion_link_2": ""
           }
+        },
+        "menu_product_G9xTNn": {
+          "type": "menu_product",
+          "settings": {
+            "text": "Fine Jewelry",
+            "open-link-newtab": true,
+            "item_label": "unset",
+            "product_menu_column": 4,
+            "mega_custom_width": 1030,
+            "full_width": true,
+            "product_width": 50,
+            "product_1": "",
+            "product_2": "",
+            "product_3": ""
+          }
         }
       },
       "block_order": [
         "menu_collection_TXbppN",
-        "menu_promotion_DximVU"
+        "menu_promotion_DximVU",
+        "menu_product_G9xTNn"
       ],
       "settings": {
         "section_width": "full-width",

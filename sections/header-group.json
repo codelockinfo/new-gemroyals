@@ -71,7 +71,6 @@
         },
         "menu_promotion_p8jxAx": {
           "type": "menu_promotion",
-          "disabled": true,
           "settings": {
             "text": "Fine Jewelry",
             "open-link-newtab": true,

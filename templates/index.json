@@ -617,6 +617,13 @@
         "reset_spacing": false
       }
     },
+    "brand_list_reynUp": {
+      "type": "brand-list",
+      "name": "Brand list",
+      "settings": {
+        "background_color": "#f5ebde"
+      }
+    },
     "banner_with_text_ygcgwP": {
       "type": "banner-with-text",
       "blocks": {
@@ -949,6 +956,7 @@
     "custom_text_ADmdGP",
     "icon_box_hUjRLr",
     "banner_image_FrjCUU",
+    "brand_list_reynUp",
     "banner_with_text_ygcgwP",
     "shopable_video_64AekP",
     "product_testimonials_f6EP9P",

@@ -130,6 +130,10 @@
     .diamond-main-box {
       grid-template-columns: repeat(4, 1fr);
     }
+    .diamond-main-box > *:nth-last-child(2):nth-child(4n+1),
+    .diamond-main-box > *:nth-last-child(1):nth-child(4n+2) {
+      grid-column: span 2;
+    }
     .diamond-h1 {
       font-size: 50px;
     }

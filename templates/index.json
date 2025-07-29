@@ -619,6 +619,40 @@
     },
     "brand_list_NKK7mi": {
       "type": "brand-list",
+      "blocks": {
+        "brand_yBPKMz": {
+          "type": "brand",
+          "settings": {}
+        },
+        "brand_zWpJmm": {
+          "type": "brand",
+          "settings": {}
+        },
+        "brand_6T4pHM": {
+          "type": "brand",
+          "settings": {}
+        },
+        "brand_LXPcDj": {
+          "type": "brand",
+          "settings": {}
+        },
+        "brand_nPBCed": {
+          "type": "brand",
+          "settings": {}
+        },
+        "brand_EPL4UT": {
+          "type": "brand",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "brand_yBPKMz",
+        "brand_zWpJmm",
+        "brand_6T4pHM",
+        "brand_LXPcDj",
+        "brand_nPBCed",
+        "brand_EPL4UT"
+      ],
       "name": "Brand list",
       "settings": {
         "background_color": ""

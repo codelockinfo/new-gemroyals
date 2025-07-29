@@ -667,7 +667,9 @@
       ],
       "name": "Brand list",
       "settings": {
-        "background_color": "#f2e9e2"
+        "background_color": "#f2e9e2",
+        "margin_top": 40,
+        "margin_bottom": 76
       }
     },
     "banner_with_text_ygcgwP": {

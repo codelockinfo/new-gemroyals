@@ -587,33 +587,10 @@
     "brand_list_GfJxWQ": {
       "type": "brand-list",
       "blocks": {
-        "brand_F8YUYY": {
-          "type": "brand",
-          "settings": {
-            "image": "shopify://shop_images/a-photograph-of-an-elegant-engagement-ri_MCYtOwPOTpi3vZVuowsiZg_zp3Snd9TRR-01fnqCTZ53Q.png",
-            "url": "",
-            "open_link": "_blank"
-          }
-        },
-        "brand_63VYmV": {
-          "type": "brand",
-          "settings": {
-            "image": "shopify://shop_images/a-photograph-of-a-dazzling-diamond-engag_jqVZi74XTZeQa6PG1Izl8Q_fvHru2TMSu-sipXxpA_lBw.png",
-            "url": "",
-            "open_link": "_blank"
-          }
-        },
-        "brand_DTmXyT": {
-          "type": "brand",
-          "settings": {
-            "image": "shopify://shop_images/a-photograph-showcasing-a-woman-s-hand-a_RtiIhxmLRdSOEpV3djQQPg_gwYwvmMiSwmr2kiCN4yHLQ.png",
-            "url": "",
-            "open_link": "_blank"
-          }
-        },
         "brand_3Qz6np": {
           "type": "brand",
           "settings": {
+            "image": "shopify://shop_images/img-3.png",
             "url": "",
             "open_link": "_blank"
           }
@@ -634,9 +611,6 @@
         }
       },
       "block_order": [
-        "brand_F8YUYY",
-        "brand_63VYmV",
-        "brand_DTmXyT",
         "brand_3Qz6np",
         "brand_jgrhdW",
         "brand_XNNreB"
@@ -645,7 +619,7 @@
       "settings": {
         "title": "",
         "sub_title": "",
-        "sub_font": "2",
+        "sub_font": "1",
         "style_title": "title_1",
         "ic_tt": "gem",
         "show_clpr": false,

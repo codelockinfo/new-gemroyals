@@ -665,6 +665,7 @@
         "brand_nPBCed",
         "brand_EPL4UT"
       ],
+      "disabled": true,
       "name": "Brand list",
       "settings": {
         "background_color": "#f2e9e2",

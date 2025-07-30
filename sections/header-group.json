@@ -37,24 +37,8 @@
     "header_KHzHmf": {
       "type": "header",
       "blocks": {
-        "menu_product_Gi7Ct7": {
-          "type": "menu_product",
-          "settings": {
-            "text": "Engagement Rings",
-            "open-link-newtab": true,
-            "item_label": "unset",
-            "product_menu_column": 4,
-            "mega_custom_width": 1030,
-            "full_width": true,
-            "product_width": 20,
-            "product_1": "",
-            "product_2": "",
-            "product_3": ""
-          }
-        },
         "menu_promotion_pVtyLB": {
           "type": "menu_promotion",
-          "disabled": true,
           "settings": {
             "text": "Engagement Rings",
             "open-link-newtab": true,
@@ -105,7 +89,6 @@
         }
       },
       "block_order": [
-        "menu_product_Gi7Ct7",
         "menu_promotion_pVtyLB",
         "menu_promotion_DximVU",
         "menu_promotion_p8jxAx"

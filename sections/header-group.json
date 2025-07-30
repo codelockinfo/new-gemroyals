@@ -54,6 +54,7 @@
         },
         "menu_promotion_pVtyLB": {
           "type": "menu_promotion",
+          "disabled": true,
           "settings": {
             "text": "Engagement Rings",
             "open-link-newtab": true,

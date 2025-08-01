@@ -1,5 +1,5 @@
 {% capture colors %}
-    <style>
+    <style   >
         {%- for block in section.blocks -%}
             {%- if block.settings.color_name != blank -%}
                 {%- assign color_name = block.settings.color_name | downcase | replace: ' ', '-' -%}

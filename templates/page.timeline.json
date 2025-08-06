@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "344a9c26-e259-4d02-90b2-57095574b89f": {
@@ -48,7 +48,7 @@
         "template--16777408020727__344a9c26-e259-4d02-90b2-57095574b89f-168834717871ffe393-1": {
           "type": "text",
           "settings": {
-            "txt_content": "<p>In the 19th century, the concept of fashion retail began with general stores that offered a range of goods, including clothing. Rokan stores typically catered to local communities and provided essential garments such as basic dresses, shirts, and workwear.<\/p>",
+            "txt_content": "<p>In the 19th century, the concept of fashion retail began with general stores that offered a range of goods, including clothing. Rokan stores typically catered to local communities and provided essential garments such as basic dresses, shirts, and workwear.</p>",
             "txt_fs": 16,
             "txt_fw": "400",
             "txt_tf": "unset",
@@ -68,8 +68,7 @@
         "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
         "image_behavior": "fixed",
         "banner_type": "image",
-        "image": "shopify:\/\/shop_images\/banner-about-testi.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "link": "",
         "open_link": "_blank",
         "image_position": "left",
@@ -106,14 +105,14 @@
           "settings": {
             "banner_width": "4",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/tl_1.png",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
             "subtext": "",
             "title": "Who We Are",
-            "content": "<p>Adipisicing elit sed do eiusmod tempor labore et dolore dignissimos cumque. Excepteur sint occaecat cupidatat proident.<\/p>",
+            "content": "<p>Adipisicing elit sed do eiusmod tempor labore et dolore dignissimos cumque. Excepteur sint occaecat cupidatat proident.</p>",
             "btn_content": "",
             "button_type": "primary"
           }
@@ -123,14 +122,14 @@
           "settings": {
             "banner_width": "4",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/tl_2.png",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
             "subtext": "",
             "title": "Our Products",
-            "content": "<p>Adipisicing elit sed do eiusmod tempor labore et dolore dignissimos cumque. Excepteur sint occaecat cupidatat proident.<\/p>",
+            "content": "<p>Adipisicing elit sed do eiusmod tempor labore et dolore dignissimos cumque. Excepteur sint occaecat cupidatat proident.</p>",
             "btn_content": "",
             "button_type": "primary"
           }
@@ -140,14 +139,14 @@
           "settings": {
             "banner_width": "4",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/tl_3.png",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
             "subtext": "",
             "title": "How We Work",
-            "content": "<p>Adipisicing elit sed do eiusmod tempor labore et dolore dignissimos cumque. Excepteur sint occaecat cupidatat proident.<\/p>",
+            "content": "<p>Adipisicing elit sed do eiusmod tempor labore et dolore dignissimos cumque. Excepteur sint occaecat cupidatat proident.</p>",
             "btn_content": "",
             "button_type": "primary"
           }
@@ -212,7 +211,7 @@
           "type": "item",
           "settings": {
             "time": "1975",
-            "timeline_title": "1975s \/ Rokan’s Founding:",
+            "timeline_title": "1975s / Rokan’s Founding:",
             "timeline_content": "Rokan was founded in 1975 by Blueskytechco in La Coruña, Spain. Initially, the store was named \"Mino’s\" but so that progress is user-oriented, it was later renamed Rokan."
           }
         },
@@ -220,7 +219,7 @@
           "type": "item",
           "settings": {
             "time": "1980",
-            "timeline_title": "1980s \/ Unique Business Model:",
+            "timeline_title": "1980s / Unique Business Model:",
             "timeline_content": "During the 1980s, Rokan expanded its retail presence within Spain. It developed a unique business model that focused on reducing the time between design and product availability. Rokan pioneered the concept of \"fast fashion\"."
           }
         },
@@ -228,7 +227,7 @@
           "type": "item",
           "settings": {
             "time": "1990",
-            "timeline_title": "1990s \/ International Expansion:",
+            "timeline_title": "1990s / International Expansion:",
             "timeline_content": "Rokan ventured beyond Spain and began its international expansion in the early 1990s. It opened stores in Portugal, the United States, Mexico, Greece, France,... Marked the beginning of Rokan's global presence."
           }
         },
@@ -236,7 +235,7 @@
           "type": "item",
           "settings": {
             "time": "2000",
-            "timeline_title": "2000s \/ Continued Growth:",
+            "timeline_title": "2000s / Continued Growth:",
             "timeline_content": "In the early 2000s, Rokan experienced significant growth and became part of the Uza Group, a Spanish multinational fashion company founded by Blueskytechco. Uza is the parent company of several fashion brands, and Rokan is its flagship brand."
           }
         },
@@ -244,7 +243,7 @@
           "type": "item",
           "settings": {
             "time": "2010",
-            "timeline_title": "2010s \/ Strong development of E-commerce:",
+            "timeline_title": "2010s / Strong development of E-commerce:",
             "timeline_content": "In the 2010s, Rokan embraced the digital era by expanding its online presence and launching e-commerce platforms. Customers could now shop for Rokan products from the comfort of their homes, further increasing the brand's accessibility and global reach."
           }
         },
@@ -252,7 +251,7 @@
           "type": "item",
           "settings": {
             "time": "2020",
-            "timeline_title": "2020s \/ For the green environment:",
+            "timeline_title": "2020s / For the green environment:",
             "timeline_content": "During the 1980s, Rokan expanded its retail presence within Spain. It developed a unique business model that focused on reducing the time between design and product availability. Rokan pioneered the concept of \"fast fashion\"."
           }
         },
@@ -260,7 +259,7 @@
           "type": "item",
           "settings": {
             "time": "2023",
-            "timeline_title": "2023s \/ Continued Innovation:",
+            "timeline_title": "2023s / Continued Innovation:",
             "timeline_content": "Rokan's history is characterized by its ability to combine fast-fashion strategies, market responsiveness, and global expansion to establish itself as a prominent player in the fashion industry."
           }
         },
@@ -268,7 +267,7 @@
           "type": "item",
           "settings": {
             "time": "Present",
-            "timeline_title": "Present \/ Global Influence:",
+            "timeline_title": "Present / Global Influence:",
             "timeline_content": "Rokan’s has expanded its retail footprint to over 5,000 stores in more than 90 countries, making it one of the largest and most influential fashion retailers worldwide."
           }
         },
@@ -276,7 +275,7 @@
           "type": "item",
           "settings": {
             "time": "2029",
-            "timeline_title": "2029s \/ IPO launch:",
+            "timeline_title": "2029s / IPO launch:",
             "timeline_content": "We are starting the long-term corporate fundraising, preparing to complete and test the IPO. Create opportunities for employees to own shares, create motivation and commitment to accompany the company."
           }
         }
@@ -296,7 +295,7 @@
         "container": "container",
         "heading": "Our Timelines",
         "heading_border": false,
-        "description": "<p>Here’s some of our most popular products people are in love with.<\/p>",
+        "description": "<p>Here’s some of our most popular products people are in love with.</p>",
         "text_alignment": "text-center"
       }
     }

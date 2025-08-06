@@ -911,7 +911,7 @@
         "show_icon": false,
         "description": "",
         "text_alignment": "text-center",
-        "container": "container",
+        "container": "strecth-width",
         "show_instagram_profile": true,
         "instagram_profile_text": "Follow Us  @PressLayouts",
         "instagram_profile_link": "",

@@ -32,7 +32,7 @@
         "menu_3X6WPa": {
           "type": "menu",
           "settings": {
-            "menu": "",
+            "menu": "our-company",
             "title": "Our Company",
             "width": "16%"
           }
@@ -40,7 +40,7 @@
         "menu_Awdkhn": {
           "type": "menu",
           "settings": {
-            "menu": "",
+            "menu": "customer-service",
             "title": "Customer Service",
             "width": "16%"
           }
@@ -48,10 +48,10 @@
         "about_us_JBrPBr": {
           "type": "about_us",
           "settings": {
-            "title": "",
+            "title": "Contact Us",
             "description": "",
             "logo_width": 120,
-            "about_description": "Experience the Perfect Fusion of Style and Luxury, Where Elegance Meets Sophistication in Every Detail.",
+            "about_description": "",
             "show_address": true,
             "show_phone": true,
             "show_email": true,

@@ -398,7 +398,7 @@
       ],
       "name": "t:sections.collection-list.name",
       "settings": {
-        "heading": "",
+        "heading": "Shop by Room",
         "heading_border": false,
         "description": "",
         "text_alignment": "text-center",

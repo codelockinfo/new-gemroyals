@@ -488,6 +488,7 @@
         "iconbox_ApUgG8": {
           "type": "iconbox",
           "settings": {
+            "icon": "shopify://shop_images/star.png",
             "heading": "ATELIER-GRADE MATERIALS",
             "description": ""
           }
@@ -495,6 +496,7 @@
         "iconbox_xHzfmT": {
           "type": "iconbox",
           "settings": {
+            "icon": "shopify://shop_images/tree.png",
             "heading": "Free Returns",
             "description": ""
           }
@@ -502,6 +504,7 @@
         "iconbox_nbQFgf": {
           "type": "iconbox",
           "settings": {
+            "icon": "shopify://shop_images/cookie.png",
             "heading": "Support Online",
             "description": ""
           }
@@ -517,21 +520,21 @@
         "heading": "",
         "heading_border": false,
         "description": "",
-        "text_alignment": "text-center",
+        "text_alignment": "text-left",
         "container": "container",
         "color_scheme": "",
         "custom_column": 3,
         "column_gap": 30,
         "icon_width": 30,
-        "icon_spacing": 20,
+        "icon_spacing": 9,
         "carousel_mobile": false,
         "ib_h_font_size": 18,
         "ib_h_font_weight": "default",
-        "ib_spacing": 20,
-        "ib_desc_font_size": 16,
+        "ib_spacing": 0,
+        "ib_desc_font_size": 10,
         "ib_img_view": "default",
         "img_position": "position-left",
-        "content_text_alignment": "text-center",
+        "content_text_alignment": "text-left",
         "padding_top": 0,
         "padding_bottom": 0,
         "reset_spacing": false
@@ -666,7 +669,6 @@
         "brand_nPBCed",
         "brand_EPL4UT"
       ],
-      "disabled": true,
       "name": "Brand list",
       "settings": {
         "background_color": "#f2e9e2",

@@ -98,7 +98,7 @@
         "section_width": "full-width",
         "color_scheme": "default-color-scheme",
         "logo_position": "in_mega_menu",
-        "logo_position_option": 4,
+        "logo_position_option": 3,
         "submenu_center": true,
         "sticky_header": true,
         "sticky_header_mobile": true,

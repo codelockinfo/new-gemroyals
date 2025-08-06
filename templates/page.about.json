@@ -1,9 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "page-about",
-      "settings": {
-      }
+      "settings": {}
     },
     "banner_with_text_yMHTEm": {
       "type": "banner-with-text",
@@ -22,7 +30,7 @@
         "text_pjic44": {
           "type": "text",
           "settings": {
-            "txt_content": "<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.<\/p>",
+            "txt_content": "<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>",
             "txt_fs": 18,
             "txt_fw": "default",
             "txt_tf": "unset",
@@ -46,7 +54,7 @@
           "settings": {
             "btn_content": "Contact Us",
             "button_type": "secondary",
-            "button_link": "shopify:\/\/pages\/contact",
+            "button_link": "shopify://pages/contact",
             "button_target": false,
             "b_mt": 0,
             "b_mb": 15
@@ -64,8 +72,7 @@
         "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
         "image_behavior": "fixed",
         "banner_type": "image",
-        "image": "shopify:\/\/shop_images\/bn_aboutus.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "link": "",
         "open_link": "_blank",
         "image_position": "left",
@@ -83,6 +90,7 @@
         "height_full": false,
         "content_box": "content_in_container",
         "bg_opacity": 100,
+        "full_box": false,
         "text_bellow_mobile": false,
         "img_position": "left",
         "banner_width": "col-md-6",
@@ -143,7 +151,7 @@
         "text_HrG8nw": {
           "type": "text",
           "settings": {
-            "txt_content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography. The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.<\/p>",
+            "txt_content": "<p>The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. For me, the most important part of improving at photography. The perfect way to enjoy brewing tea on low hanging fruit to identify. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.</p>",
             "txt_fs": 16,
             "txt_fw": "default",
             "txt_tf": "unset",
@@ -164,8 +172,7 @@
         "color_scheme": "",
         "image_behavior": "none",
         "banner_type": "image",
-        "image": "shopify:\/\/shop_images\/about_1.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "link": "",
         "open_link": "_blank",
         "image_position": "right",
@@ -183,6 +190,7 @@
         "height_full": false,
         "content_box": "content_in_container",
         "bg_opacity": 100,
+        "full_box": false,
         "text_bellow_mobile": false,
         "img_position": "left",
         "banner_width": "col-md-4",
@@ -201,8 +209,8 @@
           "settings": {
             "banner_width": "6",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/about_2.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
@@ -218,8 +226,8 @@
           "settings": {
             "banner_width": "6",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/about_3.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
@@ -244,6 +252,7 @@
         "color_scheme": "default-color-scheme",
         "show_box_background": false,
         "color_background": "",
+        "bg_overlay": 100,
         "column_gap": 30,
         "layout_on_mobile": false,
         "design_banner": "text-overlay-image",
@@ -260,6 +269,7 @@
         "des_spacing": 30,
         "button_font_size": 16,
         "button_font_weight": "default",
+        "button_spacing": 0,
         "image_behavior": "none",
         "text_position": "top",
         "content_on_mobile": false,
@@ -279,7 +289,7 @@
             "ending_number": "41",
             "unit_number": "K+",
             "heading": "Happy Customer",
-            "description": "<p>Sed ut perspiciatis unde omnis iste natus sit accusantium doloremque laudantium totam.<\/p>"
+            "description": "<p>Sed ut perspiciatis unde omnis iste natus sit accusantium doloremque laudantium totam.</p>"
           }
         },
         "counter_pNgCE6": {
@@ -289,7 +299,7 @@
             "ending_number": "21",
             "unit_number": "+",
             "heading": "Years in Business",
-            "description": "<p>Sed ut perspiciatis unde omnis iste natus sit accusantium doloremque laudantium totam.<\/p>"
+            "description": "<p>Sed ut perspiciatis unde omnis iste natus sit accusantium doloremque laudantium totam.</p>"
           }
         },
         "counter_whffkq": {
@@ -299,7 +309,7 @@
             "ending_number": "98",
             "unit_number": "%",
             "heading": "Return Clients",
-            "description": "<p>Sed ut perspiciatis unde omnis iste natus sit accusantium doloremque laudantium totam.<\/p>"
+            "description": "<p>Sed ut perspiciatis unde omnis iste natus sit accusantium doloremque laudantium totam.</p>"
           }
         },
         "counter_D8GEmy": {
@@ -309,7 +319,7 @@
             "ending_number": "16",
             "unit_number": "",
             "heading": "Awards Won",
-            "description": "<p>Sed ut perspiciatis unde omnis iste natus sit accusantium doloremque laudantium totam.<\/p>"
+            "description": "<p>Sed ut perspiciatis unde omnis iste natus sit accusantium doloremque laudantium totam.</p>"
           }
         }
       },
@@ -351,10 +361,9 @@
           "type": "testimonials",
           "settings": {
             "title_text": "Rokan is my favourite store",
-            "description": "<p>Great products and designs and such great quality, they always<\/p><p>wash up well no matter how many times I wash them.\t<\/p>",
+            "description": "<p>Great products and designs and such great quality, they always</p><p>wash up well no matter how many times I wash them.\t</p>",
             "author": "Donald Duclk",
             "job": "",
-            "image": "shopify:\/\/shop_images\/testi_1.png",
             "testimonial_width": 100
           }
         },
@@ -362,10 +371,9 @@
           "type": "testimonials",
           "settings": {
             "title_text": "Beautiful products",
-            "description": "<p>Beautiful clothes. I always get complements. Good quality and items wash well.<\/p><p> products and designs and such great.<\/p>",
+            "description": "<p>Beautiful clothes. I always get complements. Good quality and items wash well.</p><p> products and designs and such great.</p>",
             "author": "Niamh Oxley",
             "job": "",
-            "image": "shopify:\/\/shop_images\/testi_2.png",
             "testimonial_width": 100
           }
         },
@@ -373,10 +381,9 @@
           "type": "testimonials",
           "settings": {
             "title_text": "Lovely products",
-            "description": "<p>Great products and designs and such great quality, they always <\/p><p>wash up well no matter how many times I wash them<\/p>",
+            "description": "<p>Great products and designs and such great quality, they always </p><p>wash up well no matter how many times I wash them</p>",
             "author": "Mary Green",
             "job": "",
-            "image": "shopify:\/\/shop_images\/testi_3.png",
             "testimonial_width": 100
           }
         }
@@ -389,15 +396,15 @@
       "settings": {
         "heading": "What People Are Saying",
         "heading_border": false,
-        "description": "<p>Customers love our products and we always strive to please them all.<\/p>",
+        "description": "<p>Customers love our products and we always strive to please them all.</p>",
         "text_align": "text-center",
         "container": "container-fluid",
         "color_scheme": "scheme-b808185a-cae7-47ba-9fe9-7d81ddf7e485",
-        "bg_image": "shopify:\/\/shop_images\/banner-about-testi.jpg",
         "content_width": 100,
         "design": "design_1",
         "testi_text_size": "normal",
         "show_rating": true,
+        "img_view": "default",
         "img_position": "position-top",
         "car_gap": 30,
         "carousel_item_desktop": 1,
@@ -417,25 +424,22 @@
         "iconbox_Vd4iqb": {
           "type": "iconbox",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/icon-about-1.png",
             "heading": "Impressive Design",
-            "description": "<p>An impressive design is visually stunning, highly functional, and effectively resonates with its audience.<\/p>"
+            "description": "<p>An impressive design is visually stunning, highly functional, and effectively resonates with its audience.</p>"
           }
         },
         "iconbox_XypdNr": {
           "type": "iconbox",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/icon-about-3.png",
             "heading": "Awesome Performance",
-            "description": "<p>Awesome Performance delivers exceptional results, exceeding expectations with remarkable efficiency, reliability, and speed.<\/p>"
+            "description": "<p>Awesome Performance delivers exceptional results, exceeding expectations with remarkable efficiency, reliability, and speed.</p>"
           }
         },
         "iconbox_NHLC99": {
           "type": "iconbox",
           "settings": {
-            "icon": "shopify:\/\/shop_images\/icon-about-2.png",
             "heading": "25 Years of Experience",
-            "description": "<p>With 25 Years of Experience, our team has honed our skills and expertise, ensuring top-notch solutions for every project.<\/p>"
+            "description": "<p>With 25 Years of Experience, our team has honed our skills and expertise, ensuring top-notch solutions for every project.</p>"
           }
         }
       },
@@ -476,14 +480,14 @@
           "settings": {
             "banner_width": "3",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/about-us-team-1.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
             "subtext": "",
             "title": "Nimrod Barshad",
-            "content": "<p>Founder\/CEO<\/p>",
+            "content": "<p>Founder/CEO</p>",
             "btn_content": "",
             "button_type": "primary"
           }
@@ -493,14 +497,14 @@
           "settings": {
             "banner_width": "3",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/about-us-team-2.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
             "subtext": "",
             "title": "Claude K. Amadeo",
-            "content": "<p>Sales Director<\/p>",
+            "content": "<p>Sales Director</p>",
             "btn_content": "",
             "button_type": "primary"
           }
@@ -510,14 +514,14 @@
           "settings": {
             "banner_width": "3",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/about-us-team-3.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
             "subtext": "",
             "title": "Linda M. Dugan",
-            "content": "<p>Manager<\/p>",
+            "content": "<p>Manager</p>",
             "btn_content": "",
             "button_type": "primary"
           }
@@ -527,14 +531,14 @@
           "settings": {
             "banner_width": "3",
             "banner_type": "image",
-            "image": "shopify:\/\/shop_images\/about-us-team-4.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "image_opacity": 0,
             "link": "",
             "open_link": "_blank",
             "content_banner_horizontal": "Bottom",
             "subtext": "",
             "title": "Mark Pocket",
-            "content": "<p>Product Manager<\/p>",
+            "content": "<p>Product Manager</p>",
             "btn_content": "",
             "button_type": "primary"
           }
@@ -555,6 +559,7 @@
         "color_scheme": "",
         "show_box_background": false,
         "color_background": "",
+        "bg_overlay": 100,
         "column_gap": 30,
         "layout_on_mobile": false,
         "design_banner": "text-below-image",
@@ -571,6 +576,7 @@
         "des_spacing": 0,
         "button_font_size": 16,
         "button_font_weight": "default",
+        "button_spacing": 0,
         "image_behavior": "none",
         "text_position": "top",
         "content_on_mobile": false,
@@ -586,42 +592,36 @@
         "image_8D6yL4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-about.png",
             "link": ""
           }
         },
         "image_faUQJ8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-about2-1.png",
             "link": ""
           }
         },
         "image_AGiDCj": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-about3.png",
             "link": ""
           }
         },
         "image_VQYwLX": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-about4.png",
             "link": ""
           }
         },
         "image_JcWnzp": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-about5.png",
             "link": ""
           }
         },
         "image_wBimNC": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo-about.png",
             "link": ""
           }
         }

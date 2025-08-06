@@ -860,6 +860,7 @@
         "testimonials_MfRQPz": {
           "type": "testimonials",
           "settings": {
+            "image": "shopify://shop_images/13._Double_Band.png",
             "description": "<p>You can add text content from press comments, reviews, or testimonials here.</p>",
             "text_name": "Siarhei Dzenisenka",
             "product_item": ""
@@ -868,6 +869,7 @@
         "testimonials_D9wmJF": {
           "type": "testimonials",
           "settings": {
+            "image": "shopify://shop_images/12._Split_Shank.png",
             "description": "<p>You can add text content from press comments, reviews, or testimonials here.</p>",
             "text_name": "Siarhei Dzenisenka",
             "product_item": ""

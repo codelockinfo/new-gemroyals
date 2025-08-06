@@ -97,7 +97,7 @@
       "settings": {
         "section_width": "full-width",
         "color_scheme": "default-color-scheme",
-        "logo_position": "center",
+        "logo_position": "left",
         "logo_position_option": 4,
         "submenu_center": true,
         "sticky_header": true,

@@ -100,43 +100,41 @@
         "collection_item_KK3qXW": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "",
-            "collection": "top-t-shirt"
+            "title_collection": "Engagement Ring",
+            "collection": "top-t-shirt",
+            "image": "shopify://shop_images/Ring_banner.png"
           }
         },
         "collection_item_zq7pzM": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "",
-            "collection": ""
+            "title_collection": "Tennis Bracelet",
+            "collection": "",
+            "image": "shopify://shop_images/bracelate_banner.png"
           }
         },
         "collection_item_G4Phwp": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "",
-            "collection": "sweaters"
+            "title_collection": "Diamond Necklace",
+            "collection": "sweaters",
+            "image": "shopify://shop_images/necklace_banner.png"
           }
         },
         "collection_item_FMPdcf": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "",
-            "collection": "dresses"
+            "title_collection": "Diamond Pendant",
+            "collection": "dresses",
+            "image": "shopify://shop_images/pendant_banner.png"
           }
         },
         "collection_item_EkqzB6": {
           "type": "collection_item",
           "settings": {
-            "title_collection": "",
-            "collection": "shirts"
-          }
-        },
-        "collection_item_miHrKx": {
-          "type": "collection_item",
-          "settings": {
-            "title_collection": "",
-            "collection": "blazers"
+            "title_collection": "Diamond Earrings",
+            "collection": "shirts",
+            "image": "shopify://shop_images/earrings_banner.png"
           }
         }
       },
@@ -145,8 +143,7 @@
         "collection_item_zq7pzM",
         "collection_item_G4Phwp",
         "collection_item_FMPdcf",
-        "collection_item_EkqzB6",
-        "collection_item_miHrKx"
+        "collection_item_EkqzB6"
       ],
       "settings": {
         "heading": "Top Collections",

@@ -75,8 +75,9 @@
         },
         "menu_promotion_p8jxAx": {
           "type": "menu_promotion",
+          "disabled": true,
           "settings": {
-            "text": "Fine Jewelry",
+            "text": "",
             "open-link-newtab": true,
             "item_label": "unset",
             "promotion_menu_column": 4,
@@ -88,12 +89,28 @@
             "promotion_link_1": "",
             "promotion_link_2": ""
           }
+        },
+        "menu_collection_GrtUPn": {
+          "type": "menu_collection",
+          "settings": {
+            "text": "Fine Jewelry",
+            "open-link-newtab": true,
+            "item_label": "unset",
+            "collection_menu_column": 4,
+            "mega_custom_width": 1030,
+            "full_width": true,
+            "collection_width": 60,
+            "collection_1": "engagement-rings",
+            "collection_2": "bracelets-for-women",
+            "collection_3": "earrings-for-women"
+          }
         }
       },
       "block_order": [
         "menu_promotion_pVtyLB",
         "menu_promotion_DximVU",
-        "menu_promotion_p8jxAx"
+        "menu_promotion_p8jxAx",
+        "menu_collection_GrtUPn"
       ],
       "settings": {
         "section_width": "full-width",

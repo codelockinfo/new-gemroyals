@@ -545,6 +545,7 @@
           "settings": {
             "banner_width": "6",
             "banner_type": "image",
+            "image": "shopify://shop_images/6._Bezel_Setting.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "image_opacity": 0,
             "link": "",
@@ -562,6 +563,7 @@
           "settings": {
             "banner_width": "6",
             "banner_type": "image",
+            "image": "shopify://shop_images/1._Solitaire.png",
             "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "image_opacity": 0,
             "link": "",
@@ -746,6 +748,7 @@
         "color_scheme": "scheme-39dc080d-ae96-4cdd-8f57-b11d5217e9de",
         "image_behavior": "none",
         "banner_type": "image",
+        "image": "shopify://shop_images/20._Custom_Hybrid_Styles.png",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "link": "",
         "open_link": "_blank",
@@ -781,36 +784,42 @@
         "video_UKnpiM": {
           "type": "video",
           "settings": {
+            "video_local": "shopify://files/videos/✨ The Labubu pendant is here to steal the spotlight! 🐰💎 Covered in radiant gemstones and craft.mp4",
             "product_item": ""
           }
         },
         "video_qT6wXh": {
           "type": "video",
           "settings": {
+            "video_local": "shopify://files/videos/✨ The Labubu pendant is here to steal the spotlight! 🐰💎 Covered in radiant gemstones and craft.mp4",
             "product_item": ""
           }
         },
         "video_cdT6DW": {
           "type": "video",
           "settings": {
+            "video_local": "shopify://files/videos/✨ The Labubu pendant is here to steal the spotlight! 🐰💎 Covered in radiant gemstones and craft.mp4",
             "product_item": ""
           }
         },
         "video_8gVU4k": {
           "type": "video",
           "settings": {
+            "video_local": "shopify://files/videos/✨ The Labubu pendant is here to steal the spotlight! 🐰💎 Covered in radiant gemstones and craft.mp4",
             "product_item": ""
           }
         },
         "video_A7TNaX": {
           "type": "video",
           "settings": {
+            "video_local": "shopify://files/videos/✨ The Labubu pendant is here to steal the spotlight! 🐰💎 Covered in radiant gemstones and craft.mp4",
             "product_item": ""
           }
         },
         "video_6gxm4M": {
           "type": "video",
           "settings": {
+            "video_local": "shopify://files/videos/✨ The Labubu pendant is here to steal the spotlight! 🐰💎 Covered in radiant gemstones and craft.mp4",
             "product_item": ""
           }
         }

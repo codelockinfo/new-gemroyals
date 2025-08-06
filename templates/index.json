@@ -806,7 +806,7 @@
         "heading_border": false,
         "description": "",
         "text_align": "text-center",
-        "container": "container-fluid",
+        "container": "strecth-width",
         "color_scheme": "",
         "show_rating": true,
         "show_image": true,

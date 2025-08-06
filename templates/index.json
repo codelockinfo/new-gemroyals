@@ -358,6 +358,80 @@
         "reset_spacing": false
       }
     },
+    "collection_list_LVUWTE": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_item_EgViwB": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "earrings-for-women"
+          }
+        },
+        "collection_item_YWVDgH": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "engagement-rings"
+          }
+        },
+        "collection_item_b9TGin": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "bracelets-for-women"
+          }
+        },
+        "collection_item_dDzTHJ": {
+          "type": "collection_item",
+          "settings": {
+            "title_collection": "",
+            "collection": "mens-band"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_EgViwB",
+        "collection_item_YWVDgH",
+        "collection_item_b9TGin",
+        "collection_item_dDzTHJ"
+      ],
+      "name": "t:sections.collection-list.name",
+      "settings": {
+        "heading": "",
+        "heading_border": false,
+        "description": "",
+        "text_alignment": "text-center",
+        "container": "container",
+        "color_scheme": "default-color-scheme",
+        "design_layout": "carousel",
+        "design_collection": "design-2",
+        "hover_effect": "zoom",
+        "show_count_product": false,
+        "custom_width_images": false,
+        "width_image": 200,
+        "images_style": false,
+        "image_ratio": "3/4",
+        "custom_ratio": "21:9",
+        "custom_column": 3,
+        "custom_column_mobile": 2,
+        "custom_column_small_mobile": 2,
+        "column_gap": 30,
+        "collection_font_size": 16,
+        "collection_font_weight": 500,
+        "collection_spacing": 0,
+        "count_font_size": 14,
+        "count_font_weight": 400,
+        "autoplay": false,
+        "loop": false,
+        "show_arrow": false,
+        "carousel_pagination": "carousel_none",
+        "reveal_on_scroll": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "reset_spacing": false
+      }
+    },
     "custom_text_ADmdGP": {
       "type": "custom-text",
       "blocks": {
@@ -938,6 +1012,7 @@
     "collection_list_abd4bJ",
     "brand_slider_R9WJaK",
     "collection_tab_Ccmbi4",
+    "collection_list_LVUWTE",
     "custom_text_ADmdGP",
     "icon_box_hUjRLr",
     "banner_image_FrjCUU",

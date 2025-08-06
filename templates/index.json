@@ -664,7 +664,7 @@
       ],
       "name": "t:sections.banner-with-text.name",
       "settings": {
-        "container": "container-fluid",
+        "container": "strecth-width",
         "color_scheme": "scheme-39dc080d-ae96-4cdd-8f57-b11d5217e9de",
         "image_behavior": "none",
         "banner_type": "image",

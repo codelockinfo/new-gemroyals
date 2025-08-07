@@ -157,7 +157,7 @@
         "container": "container-fluid",
         "enable_list_view": false,
         "products_column": 3,
-        "number_products_grid": 12,
+        "number_products_grid": 9,
         "number_products_list": 4,
         "pagination": "load_more",
         "product_page_count": true,

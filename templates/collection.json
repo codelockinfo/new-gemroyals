@@ -159,12 +159,12 @@
         "products_column": 3,
         "number_products_grid": 12,
         "number_products_list": 4,
-        "pagination": "default",
+        "pagination": "load_more",
         "product_page_count": true,
         "product_sort_options": true,
         "progress_bar": true,
         "enable_sidebar": true,
-        "sidebar_position": "dropdonw_sidebar",
+        "sidebar_position": "left_sidebar",
         "show_count": true
       }
     },

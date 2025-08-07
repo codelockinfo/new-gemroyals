@@ -164,7 +164,7 @@
         "product_sort_options": true,
         "progress_bar": true,
         "enable_sidebar": true,
-        "sidebar_position": "left_sidebar",
+        "sidebar_position": "filter_canvas",
         "show_count": true
       }
     },

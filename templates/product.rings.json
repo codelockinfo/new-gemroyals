@@ -11,7 +11,6 @@
   "sections": {
     "breadcrumb": {
       "type": "breadcrumb",
-      "disabled": true,
       "settings": {
         "container": "container-fluid",
         "color_scheme": "",

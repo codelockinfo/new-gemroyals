@@ -126,19 +126,35 @@
                           {{ product.description }}
                         {% else %}
                           <div class="container-customize-description">
-                            <div style="margin-bottom: 20px;">{{ block.settings.description-text }}</div>
+                            <div style="margin-bottom: 20px;">{{ block.settings['description-text'] }}</div>
                             <div>
-                              <div style="margin-bottom: 20px;">{{ block.settings.desc-title }}</div>
+                              <div style="margin-bottom: 20px;">{{ block.settings['desc-title'] }}</div>
                               <div>
                                 <div><img src="{{ block.settings.sizechart-img | image_url }}" alt=""></div>
-                                <div></div>
+                                <div>
+                                  {% if product.metafields.custom.des_image %}
+                                    <img
+                                      src="{{ product.metafields.custom.des_image | image_url }}"
+                                      alt="Product Description Image"
+                                      style="max-width: 100%; height: auto;"
+                                    >
+                                  {% endif %}
+                                </div>
                               </div>
                             </div>
-                            <div style="margin: 20px 0px;"><img src="{{ block.settings.img-1 | image_url }}" alt=""></div>
-                            <div style="margin: 20px 0px;"><img src="{{ block.settings.img-2 | image_url }}" alt=""></div>
-                            <div style="margin: 20px 0px;"><img src="{{ block.settings.img-3 | image_url }}" alt=""></div>
-                            <div style="margin: 20px 0px;"><img src="{{ block.settings.img-4 | image_url }}" alt=""></div>
-                            <div style="padding-left: 20px;">{{ block.settings.description-end-text }}</div>
+                            <div style="margin: 20px 0px;">
+                              <img src="{{ block.settings.img-1 | image_url }}" alt="">
+                            </div>
+                            <div style="margin: 20px 0px;">
+                              <img src="{{ block.settings.img-2 | image_url }}" alt="">
+                            </div>
+                            <div style="margin: 20px 0px;">
+                              <img src="{{ block.settings.img-3 | image_url }}" alt="">
+                            </div>
+                            <div style="margin: 20px 0px;">
+                              <img src="{{ block.settings.img-4 | image_url }}" alt="">
+                            </div>
+                            <div style="padding-left: 20px;">{{ block.settings['description-end-text'] }}</div>
                           </div>
                         {% endif %}
                       {%- when 'custom_tab' -%}

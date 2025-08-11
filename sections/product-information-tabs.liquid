@@ -122,7 +122,7 @@
                       {%- when '@app' -%}
                         {% render block %}
                       {%- when 'description' -%}
-                        {% if section.settings.description_toggle == 'description' %}
+                        {% if block.settings.description_toggle == 'description' %}
                           {{ product.description }}
                         {% else %}
                           <div class="container-customize-description">

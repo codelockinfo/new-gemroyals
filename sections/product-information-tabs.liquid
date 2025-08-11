@@ -123,6 +123,7 @@
                         {% render block %}
                       {%- when 'description' -%}
                         {{ product.description }}
+                        <div>hello</div>
                       {%- when 'custom_tab' -%}
                         {% assign tab_content = bk_st.tab_content %}
                         {%- case tab_content -%}

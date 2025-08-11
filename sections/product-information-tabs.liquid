@@ -125,19 +125,19 @@
                         {% if section.settings.description_toggle == 'description' %}
                           {{ product.description }}
                         {% else %}
-                          <div>
+                          <div class="container-customize-description">
                             <div>{{ block.settings.description-text }}</div>
                             <div>
                               <div>{{ block.settings.desc-title }}</div>
                               <div>
-                                <div>{{ block.settings.sizechart-img }}</div>
+                                <div><img src="{{ block.settings.sizechart-img }}" alt=""></div>
                                 <div></div>
                               </div>
                             </div>
-                            <div>{{ block.settings.img-1 }}</div>
-                            <div>{{ block.settings.img-2 }}</div>
-                            <div>{{ block.settings.img-3 }}</div>
-                            <div>{{ block.settings.img-4 }}</div>
+                            <div><img src="{{ block.settings.img-1 }}" alt=""></div>
+                            <div><img src="{{ block.settings.img-2 }}" alt=""></div>
+                            <div><img src="{{ block.settings.img-3 }}" alt=""></div>
+                            <div><img src="{{ block.settings.img-4 }}" alt=""></div>
                             <div>{{ block.settings.description-end-text }}</div>
                           </div>
                         {% endif %}

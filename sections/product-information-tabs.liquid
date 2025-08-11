@@ -154,10 +154,12 @@
                             <div style="margin: 20px 0px;">
                               <img src="{{ block.settings.img-3 | image_url }}" alt="">
                             </div>
-                            <div style="margin: 20px 0px;">
-                              <img src="{{ block.settings.img-4 | image_url }}" alt="">
+                            <div style="display: flex;">
+                              <div style="margin: 20px 0px; flex: 1;">
+                                <img src="{{ block.settings.img-4 | image_url }}" alt="">
+                              </div>
+                              <div style="padding-left: 20px; flex: 1;">{{ block.settings['description-end-text'] }}</div>
                             </div>
-                            <div style="padding-left: 20px;">{{ block.settings['description-end-text'] }}</div>
                           </div>
                         {% endif %}
                       {%- when 'custom_tab' -%}

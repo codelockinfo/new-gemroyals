@@ -125,7 +125,10 @@
                         {% if section.settings.description_toggle == 'description' %}
                           {{ product.description }}
                         {% else %}
-                          <div>hello</div>
+                          <div>
+                            <div></div>
+                            <div></div>
+                          </div>
                         {% endif %}
                       {%- when 'custom_tab' -%}
                         {% assign tab_content = bk_st.tab_content %}
@@ -361,7 +364,7 @@
           "label": "Image 4"
         },
         {
-          "type": "textarea",
+          "type": "richtext",
           "id": "description-end-text",
           "label": "Write End Poit of Description"
         }

@@ -130,8 +130,8 @@
                             <div>
                               <div style="margin-bottom: 20px;">{{ block.settings['desc-title'] }}</div>
                               <div style="display: flex;">
-                                <div><img src="{{ block.settings.sizechart-img | image_url }}" alt=""></div>
-                                <div>
+                                <div style="flex: 2;"><img src="{{ block.settings.sizechart-img | image_url }}" alt=""></div>
+                                <div style="flex: 1;">
                                   {% if product.metafields.custom.des_image %}
                                     <img
                                       src="{{ product.metafields.custom.des_image | image_url }}"

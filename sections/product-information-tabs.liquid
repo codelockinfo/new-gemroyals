@@ -122,8 +122,11 @@
                       {%- when '@app' -%}
                         {% render block %}
                       {%- when 'description' -%}
-                        {{ product.description }}
-                        <div>hello</div>
+                        {% if section.settings.description_toggle == 'description' %}
+                          {{ product.description }}
+                        {% else %}
+                          <div>{{ section.settings.custom_text }}</div>
+                        {% endif %}
                       {%- when 'custom_tab' -%}
                         {% assign tab_content = bk_st.tab_content %}
                         {%- case tab_content -%}
@@ -299,6 +302,16 @@
       "name": "t:sections.all.section_header.description",
       "settings": [
         {
+          "type": "select",
+          "id": "description_toggle",
+          "label": "Choose what to show",
+          "options": [
+            { "value": "description", "label": "Show product description" },
+            { "value": "custom", "label": "Show custom text" }
+          ],
+          "default": "description"
+        },
+        {
           "type": "text",
           "id": "title",
           "label": "t:sections.product-information-tabs.blocks.description.settings.title.label",
@@ -307,7 +320,7 @@
         {
           "type": "textarea",
           "id": "description-text",
-          "label": "Write Description",
+          "label": "Write Description"
         },
         {
           "type": "header",
@@ -350,7 +363,7 @@
         {
           "type": "textarea",
           "id": "description-end-text",
-          "label": "Write End Poit of Description",
+          "label": "Write End Poit of Description"
         }
       ]
     },

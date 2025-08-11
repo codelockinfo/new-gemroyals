@@ -129,7 +129,7 @@
                             <div style="margin-bottom: 20px;">{{ block.settings['description-text'] }}</div>
                             <div>
                               <div style="margin-bottom: 20px;">{{ block.settings['desc-title'] }}</div>
-                              <div class="metafield-block" style="display: flex;">
+                              <div class="metafield-block">
                                 <div style="flex: 2;"><img src="{{ block.settings.sizechart-img | image_url }}" alt=""></div>
                                 <div style="flex: 1;">
                                   {% if product.metafields.custom.des_image %}
@@ -448,6 +448,9 @@
   .container-customize-description{
     max-width: 1440px;
     margin: 0 auto;
+  }
+  .metafield-block{
+    display: flex;
   }
   @media (max-width: 767px){
     .metafield-block{

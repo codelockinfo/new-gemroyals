@@ -211,7 +211,11 @@
         "5ff6a4f5-c591-4a3f-bb68-b1efa1c91ab5": {
           "type": "description",
           "settings": {
-            "title": "Description"
+            "description_toggle": "custom",
+            "title": "Description",
+            "description-text": "",
+            "desc-itle": "",
+            "description-end-text": ""
           }
         },
         "judge_me_reviews_review_widget_Rdacqi": {

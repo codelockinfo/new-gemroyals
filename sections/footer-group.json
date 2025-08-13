@@ -68,7 +68,7 @@
         "about_us_JBrPBr"
       ],
       "settings": {
-        "container": "full-width",
+        "container": "strecth-width",
         "text_alignment": "text-left",
         "footer_open_collapsing": false,
         "back_to_top": true,

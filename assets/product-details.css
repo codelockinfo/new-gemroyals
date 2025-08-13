@@ -1387,7 +1387,7 @@ body.sticky-addcart-show .footer.footer {
 
 /* end */
 .product.info.detailed table {
-  display: block;
+  /* display: block; */
   width: fit-content;
   max-width: 100%;
   overflow: auto;

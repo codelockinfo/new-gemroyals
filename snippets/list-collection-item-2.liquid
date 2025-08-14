@@ -81,6 +81,7 @@
             href="{% if collection_item == blank %}#{% else %}{{ collection_item.url }}{% endif %}"
             class="d-block text-transform"
           >
+            {{collection.metafiled.custom.canonical_url}}
             {%- if title_collection != blank -%}
               {{- title_collection | escape -}}
             {%- else -%}

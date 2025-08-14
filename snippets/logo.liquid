@@ -9,6 +9,13 @@
     assign logo_image = settings.logo_transparent_image | default: logo_image
   endif
 -%}
+<style>
+  @media (min-width: 1024px) {
+    .header__logo.logo-center {
+      display: none;
+    }
+  }
+</style>
 <div class="header__logo logo-center" >
   {% if request.page_type == 'index' %}
     <h1 class="mb-0">

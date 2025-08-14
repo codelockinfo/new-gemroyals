@@ -206,11 +206,11 @@
 </div>
 </div>
           <header-inner class="d-flex align-items-center">
-            {%- if logo_position == 'left' -%}
+            {% comment %} {%- if logo_position == 'left' -%}
               <div class="col-header-left d-inline-flex justify-content-center justify-content-desktop-start" >
                 
               </div>
-            {%- endif -%}
+            {%- endif -%} {% endcomment %}
             {% if logo_position == 'in_mega_menu' %}
               <div class="logo-menu col-header-left d-inline-flex align-items-center">
                 {%- liquid

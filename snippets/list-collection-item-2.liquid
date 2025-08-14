@@ -76,7 +76,7 @@
           assign btn_text = st.btn_text
           assign title_collection = block_st.title_collection | default: title_collection
         -%}
-        <h3 class="1111 collection-title m-0">
+        <h3 class="collection-title m-0">
           <a
             href="{% if collection_item == blank %}#{% else %}{{ collection_item.url }}{% endif %}"
             class="d-block text-transform"

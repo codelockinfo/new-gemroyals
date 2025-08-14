@@ -94,7 +94,7 @@
       </div>
     {%- elsif logo_image != blank -%}
       {%- assign logo_height = logo_width | divided_by: logo_image.aspect_ratio | round -%}
-      <span class="d-none-mb d-flex">
+      <span class="d-none-mb ">
         <img
           srcset="
             {%- if logo_image.width >= 165 -%}
